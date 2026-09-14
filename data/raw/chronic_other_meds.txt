@@ -1,73 +1,128 @@
-
-Tablet Losartan 50 mg once a day for 30 days
-Tab. Sitagliptin 100 mg, once daily, 30 days
-Tab. Metformin 500mg BD x 30 days
-Tab. Metformin 500mg OD x 30 days
-Tab. Metformin 850mg BD x 30 days
-Tab. Metformin 1000mg BD x 30 days
-Tab. Metformin 500mg BD x 60 days
-Tab. Metformin 750mg OD x 30 days
-Tab. Metformin 500mg OD x 15 days
-Tab. Metformin 850mg OD x 30 days
-Amlodipine 5mg OD x 30 days
-Tab. Atorvastatin 10 mg, once daily, 30 days
-Tab. Metformin 1000mg OD x 30 days
-Tab. Metformin 500mg TDS x 30 days
-Tab. Amlodipine 5mg OD x 30 days
-Tab. Amlodipine 10mg OD x 30 days
-Tab. Amlodipine 5mg OD x 60 days
-Tab. Amlodipine 2.5mg OD x 30 days
-Tab. Amlodipine 5mg BD x 30 days
-Tab. Amlodipine 10mg OD x 60 days
-Capsule Calcium 500mg - OD - 30 days
-Glimepiride 2mg BD x 30 days
-Tab. Amlodipine 10mg OD x 30 days
-Tab. Amlodipine 5mg BD x 60 days
-Cap. Vitamin D 60000 IU weekly x 8 weeks
-Cap. Vitamin D 60000 IU weekly x 6 weeks
-Tab. Vitamin D 1000 IU OD x 30 days
-Tab. Vitamin D 2000 IU OD x 30 days
-Cap. Vitamin D 60000 IU weekly x 4 weeks
-Tab. Vitamin D 1000 IU OD x 60 days
-Tab. Vitamin D 2000 IU OD x 60 days
-Cap. Vitamin D 60000 IU weekly x 12 weeks
-Tab. Vitamin D 1000 IU OD x 90 days
-Cap. Vitamin D 60000 IU weekly x 10 weeks
-Tab. Metformin 500mg BD x 90 days
-Tab. Metformin 850mg BD x 60 days
-Tab. Metformin 1000mg BD x 60 days
-Tab. Metformin 500mg OD x 90 days
-Tablet Metformin 500 mg twice a day for 30 days
-Cap Vitamin D3 60000IU - once a week - 8 weeks
-Tab. Amlodipine 5mg OD x 90 days
-Tab. Amlodipine 10mg OD x 90 days
-Tab. Amlodipine 2.5mg OD x 90 days
-Tab. Amlodipine 5mg BD x 90 days
-Cap. Vitamin D 60000 IU weekly x 3 weeks
-Cap. Vitamin D 60000 IU weekly x 5 weeks
-Tab. Vitamin D 1000 IU OD x 90 days
-Tab. Vitamin D 2000 IU OD x 90 days
-Tab. Metformin 500mg BD x 45 days
-Tab. Telmisartan 40 mg, once a day, 30 days
-Cap Pantoprazole 40mg once daily for 15 days
-Tablet Metoprolol 25 mg BD x 30 days
-Rosuvastatin 20mg - OD - 30 days
-Tab. Metformin 850mg BD x 45 days
-Tab. Amlodipine 5mg OD x 45 days
-Tab. Amlodipine 10mg OD x 45 days
-Cap. Vitamin D 60000 IU weekly x 7 weeks
-Tab. Metformin 500mg BD x 20 days
-Tab. Metformin 1000mg OD x 20 days
-Tab. Amlodipine 5mg OD x 20 days
-Tab. Amlodipine 10mg OD x 20 days
-Tab. Vitamin D 1000 IU OD x 20 days
-Tab. Metformin 850mg BD x 90 days
-Tab. Metformin 1000mg OD x 90 days
-Tab. Amlodipine 5mg OD x 120 days
-Tab. Amlodipine 10mg OD x 120 days
-Cap. Vitamin D 60000 IU weekly x 8 weeks
-Tab. Metformin 500mg OD x 60 days
-Tab. Metformin 500mg BD x 120 days
-Tab. Amlodipine 2.5mg OD x 30 days
-Tab. Amlodipine 5mg OD x 120 days
-Tab. Vitamin D 2000 IU OD x 60 days
+Advised pt to start T. Losartan 50mg PO OD x 1 month for BP control
+Continue ongoing Rx: Sitagliptin 100 mg 1-0-0 (morning) 30 days
+Mtfrmn 500mg 1 goli subah aur 1 sham x 30 din
+Rx Tab Metfromin 500 1-0-0 x 1/12
+Tab. Metformin 850mg (1-0-1) for 1 mo
+Metformin 1g BD 30days pc
+Cap. Metformin 500 mg 1-0-1 x 2 months
+Tab Glycomet (Metformin) 750mg OD x 30 d
+Rx: Mtf 500mg OD 15 days only
+Metformin 850 mg tab 1 po qd x 30 days
+Amlo 5mg 0-0-1 30 days
+Start T. Atorva 10mg (Atorvastatin) 1-0-0 x 1mo
+Tab Metformin 1000mg 1 od x 30d
+Tab Metformin 500mg TDS (1-1-1) for 1 month
+Rx Amlodipine 5mg 1 OD x 30days
+Tab Amlodac 10 (Amlodipine 10mg) 1-0-0 x 30d
+amlo 5 mg tab 1-0-0 for 60 days
+T. Amlodipine 2.5mg half tab OD x 30 d
+Amlodipine 5 mg PO BID x 30 days
+Tb Amlodipine 10mg od 2/12
+C. Calcium 500mg 1-0-0 x 30D
+Tab Glimepiride 2 mg 1-0-1 30 din tak
+Amlodipine 10mg 1 goli rozana x 1 mahina
+Amlo 5mg tab bd x 2 months
+Cap Vit D3 60k IU 1/wk (every Sunday) x 8 wks
+Cholecalciferol 60000 IU cap once weekly for 6 weeks
+Tab Vit-D 1000 IU 1 OD x 30 days
+Vit D 2000 IU tab 1-0-0 x 1 mo
+Vit D3 60K sachet 1 in milk weekly x 4 wks
+T. Vitamin D 1000 IU OD x 2/12
+Vit-D 2000 units OD 60 days
+C. Vitamin D3 60,000 IU 1 per week x 12 weeks
+Vitamin D 1000 IU 1 tab od for 90 days
+Cap Vit D 60K IU once a wk x 10 weeks
+Mtf 500mg bd 3 months
+Tab Metformin 850mg 1-0-1 x 2/12
+Metformin 1000mg bd 60d
+Tab Metformin 500 OD x 3 months
+Tablet Metformin 500 mg twice a day for thirty days
+Cap Vitamin D3 60000IU - 1/week - 8 weeks
+T Amlodipine 5 mg 1 od x 90d
+Amlodipine 10 mg 1-0-0 x 3 mo
+Amlo 2.5mg tab OD for 90 days
+Tb Amlodipine 5mg bd x 90d
+VitD3 60k 1cap/week x 3 weeks
+Vit D 60000 IU 1 goli hafte me ek baar x 5 wks
+Tab. Vit D 1000 IU rozana 90 din
+Vitamin D 2000 units OD x 90D
+Metformin 500 PO BID x 45 days
+Advised Telmisartan 40 mg 1 OD x 30 days (khali pet)
+Cap Pantocid 40 (Pantoprazole) 1-0-0 ac x 15d
+Tablet Metoprolol 25 mg 1-0-1 x 1 mo
+Rosuvastatin 20mg 0-0-1 hs x 30 days
+Metformin 850mg 1-0-1 x 1.5 months
+Amlo 5mg 1 OD x 45d
+Tab Amlodipine 10 mg 1-0-0 45 days
+Vit D3 60k cap weekly x 7wks
+Mtf 500mg bd x 20d
+Tab Metformin 1g OD x 20 days
+Amlodipine 5mg 1 od x 20d
+Tab Amlodipine 10mg OD 20 days
+Vit D 1000 IU 1 od x 20d
+Metformin 850mg bd 3 months
+Metformin 1000mg 1 od x 90d
+Amlo 5mg OD x 4 months
+Amlodipine 10mg tab OD x 120 days
+Cap VitD3 60K IU 1/wk x 2 months
+Metformin 500mg OD 60d
+Tab Metformin 500mg 1-0-1 x 120 days
+Tb.Amlodipine2.5mg ODx30d
+Amlodipine 5mg 1-0-0 x 120 days
+Vit D 2000 IU 1 od x 2/12
+Tab.Losartan50mg1ODx30days
+sitagliptin100mg 1po qam 1mo
+Rx:Metformin500mg 1-0-1x30D
+Metformin 500mg od 1 month
+Tb.Mtfrmn850mg BDx30d
+Tab.Metformin1000mg1-0-1 x 1mo
+Mtf500mgBDx60d
+Metformin750mg 1-0-0x30d
+Tab.Metformin500mgODx15d
+T.Metformin850mg ODx30days
+Amlodipine5mg1ODx30d
+Tb.Atorvastatin10mg 0-0-1x30D
+Metformin1000mgODx30days
+TabMetformin500mgTDSx30d
+Amlodipine5mgPOODx30days
+T.Amlodipine10mg1ODx30d
+Amlo5mgODx60days
+TbAmlodipine2.5mg1ODx30d
+Amlodipine5mg1-0-1x30d
+Amlo10mgODx60D
+Cap.Calcium500mgODx30d
+Glimepiride2mgBDx30d
+TabAmlodipine10mgODx30days
+Amlo5mgBDx60days
+CapVitD60kIU weeklyx8wks
+VitD3 60kIU 1/wkx6wks
+Tb.VitD1000IU1ODx30d
+VitD2000IU ODx30D
+Cap.VitD60000IU 1/wkx4wks
+VitD1000IUODx60days
+TabVitD2000IU1ODx60d
+CapVitD60kIU weeklyx12wks
+Tab.VitD1000IUODx90d
+VitD3 60000IU 1/wkx10wks
+Metformin500mgBDx90d
+Tab.Metformin850mgBDx60d
+Mtfrmn1000mgBDx60D
+Tb.Metformin500mgODx90days
+Tab.Metformin500mg1-0-1x30d
+Cap.VitD3 60000IU 1/wkx8wks
+Amlodipine5mgODx90d
+Amlo10mgODx90days
+T.Amlodipine2.5mgODx90d
+TbAmlodipine5mgBDx90d
+VitD60kIU weeklyx3wks
+Cap.VitD60000IU 1/wkx5wks
+VitD1000IU ODx90days
+TabVitD2000IU ODx90d
+Metformin500mgBDx45d
+Telmisartan40mgODx30days
+Cap.Pantoprazole40mgODx15d
+Tab.Metoprolol25mgBDx30d
+Rosuvastatin20mgODx30d
+Metformin850mgBDx45days
+Amlodipine5mgODx45d
+Amlo10mgODx45days
