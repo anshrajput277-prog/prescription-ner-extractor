@@ -10,3 +10,67 @@ Cap Pantoprazole 40mg once daily for 15 days
 Tablet Metoprolol 25 mg BD x 30 days
 Rosuvastatin 20mg - OD - 30 days
 Tab. Sitagliptin 100 mg, once daily, 30 days
+Tab. Metformin 500mg BD x 30 days
+Tab. Metformin 500mg OD x 30 days
+Tab. Metformin 850mg BD x 30 days
+Tab. Metformin 1000mg BD x 30 days
+Tab. Metformin 500mg BD x 60 days
+Tab. Metformin 750mg OD x 30 days
+Tab. Metformin 500mg OD x 15 days
+Tab. Metformin 850mg OD x 30 days
+Tab. Metformin 1000mg OD x 30 days
+Tab. Metformin 500mg TDS x 30 days
+Tab. Amlodipine 5mg OD x 30 days
+Tab. Amlodipine 10mg OD x 30 days
+Tab. Amlodipine 5mg OD x 60 days
+Tab. Amlodipine 2.5mg OD x 30 days
+Tab. Amlodipine 5mg BD x 30 days
+Tab. Amlodipine 10mg OD x 60 days
+Tab. Amlodipine 5mg OD x 15 days
+Tab. Amlodipine 2.5mg OD x 60 days
+Tab. Amlodipine 10mg OD x 30 days
+Tab. Amlodipine 5mg BD x 60 days
+Cap. Vitamin D 60000 IU weekly x 8 weeks
+Cap. Vitamin D 60000 IU weekly x 6 weeks
+Tab. Vitamin D 1000 IU OD x 30 days
+Tab. Vitamin D 2000 IU OD x 30 days
+Cap. Vitamin D 60000 IU weekly x 4 weeks
+Tab. Vitamin D 1000 IU OD x 60 days
+Tab. Vitamin D 2000 IU OD x 60 days
+Cap. Vitamin D 60000 IU weekly x 12 weeks
+Tab. Vitamin D 1000 IU OD x 90 days
+Cap. Vitamin D 60000 IU weekly x 10 weeks
+Tab. Metformin 500mg BD x 90 days
+Tab. Metformin 850mg BD x 60 days
+Tab. Metformin 1000mg BD x 60 days
+Tab. Metformin 500mg OD x 90 days
+Tab. Metformin 750mg OD x 60 days
+Tab. Metformin 850mg OD x 60 days
+Tab. Amlodipine 5mg OD x 90 days
+Tab. Amlodipine 10mg OD x 90 days
+Tab. Amlodipine 2.5mg OD x 90 days
+Tab. Amlodipine 5mg BD x 90 days
+Cap. Vitamin D 60000 IU weekly x 3 weeks
+Cap. Vitamin D 60000 IU weekly x 5 weeks
+Tab. Vitamin D 1000 IU OD x 90 days
+Tab. Vitamin D 2000 IU OD x 90 days
+Tab. Metformin 500mg BD x 45 days
+Tab. Metformin 850mg BD x 45 days
+Tab. Amlodipine 5mg OD x 45 days
+Tab. Amlodipine 10mg OD x 45 days
+Cap. Vitamin D 60000 IU weekly x 7 weeks
+Tab. Metformin 500mg BD x 20 days
+Tab. Metformin 1000mg OD x 20 days
+Tab. Amlodipine 5mg OD x 20 days
+Tab. Amlodipine 10mg OD x 20 days
+Tab. Vitamin D 1000 IU OD x 20 days
+Tab. Metformin 850mg BD x 90 days
+Tab. Metformin 1000mg OD x 90 days
+Tab. Amlodipine 5mg OD x 120 days
+Tab. Amlodipine 10mg OD x 120 days
+Cap. Vitamin D 60000 IU weekly x 8 weeks
+Tab. Metformin 500mg OD x 60 days
+Tab. Metformin 500mg BD x 120 days
+Tab. Amlodipine 2.5mg OD x 30 days
+Tab. Amlodipine 5mg OD x 120 days
+Tab. Vitamin D 2000 IU OD x 60 days
