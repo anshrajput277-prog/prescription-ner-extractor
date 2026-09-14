@@ -1,57 +1,116 @@
-Tab. Paracetamol 500mg TDS x 3 days
-Tab. Dolo 650mg BD x 5 days
-Tab. Ibuprofen 400mg TDS x 3 days
-Cap. Combiflam SOS x 5 days
-Tab. Crocin Advance 500mg QID x 4 days
-Tab. Paracetamol 650mg OD x 3 days
-Tab. Diclofenac 50mg BD x 5 days
-Tab. Aceclofenac 100mg BD x 3 days
-Syp. Calpol 250mg TDS x 3 days
-Tab. Nimesulide 100mg BD x 4 days
-Tab. Dolo 500mg TDS x 3 days
-Tab. Paracetamol 1000mg BD x 5 days
-Cap. Flexon SOS x 3 days
-Tab. Ibuprofen 200mg TDS x 4 days
-Tab. Aspirin 75mg OD x 30 days
-Syp. Paracetamol 125mg TDS x 3 days
-Tab. Meftal Spas 250mg BD x 3 days
-Tab. Zerodol 100mg BD x 5 days
-Tab. Naproxen 250mg BD x 5 days
-Tab. Ketorolac 10mg TDS x 2 days
-Cap. Sumo 500mg BD x 4 days
-Tab. Crocin 500mg QID x 3 days
-Tab. Paracetamol 500mg SOS x 5 days
-Tab. Dolo 650mg TDS x 3 days
-Syp. Brufen 100mg TDS x 5 days
-Tab. Voveran 50mg BD x 5 days
-Tab. Mefenamic Acid 500mg TDS x 3 days
-Tab. Etoricoxib 90mg OD x 5 days
-Cap. Combiflam Plus BD x 4 days
-Tab. Paracetamol 250mg TDS x 3 days
-Tab. Dolo 650mg OD x 2 days
-Syp. Calpol 125mg QID x 3 days
-Tab. Ibuprofen 600mg TDS x 5 days
-Tab. Diclofenac Sodium 50mg TDS x 3 days
-Cap. Zerodol P BD x 5 days
-Tab. Paracetamol 500mg BD x 7 days
-Tab. Aceclofenac 100mg OD x 5 days
-Tab. Ultracet BD x 4 days
-Syp. Meftal-P 5ml TDS x 3 days
-Tab. Naproxen 500mg OD x 5 days
-Tab. Dolo 1000mg OD x 3 days
-Cap. Flexon MR BD x 4 days
-Tab. Nimesulide 50mg TDS x 3 days
-Tab. Etodolac 400mg BD x 5 days
-Tab. Paracetamol 500mg TDS x 5 days
-Tablet Paracetamol 500 mg twice a day for 3 days
-Cap Ibuprofen 400mg - TDS - 5 days
-Dolo 650mg OD x 3 days
-Tab. Crocin 500 mg, thrice daily, 3 days
-Syrup Calpol 125mg twice a day for 4 days
-Tablet Aceclofenac 100 mg - BD - 5 days
-Diclofenac 50mg TDS x 3 days
-Tab. Nimesulide 100 mg, twice daily, 4 days
-Cap Combiflam 400mg once a day for 5 days
-Tablet Naproxen 250 mg TDS x 5 days
-Meftal Spas 250mg - BD - 3 days
-Tab. Etoricoxib 90 mg, once a day, 5 days
+Rx Tab.Pcm500mg1-1-1x3d
+dolo650 mg 1-0-1 for 5 days pc
+take Ibrofen 400 tds 3/7
+Tab Paracetamol 500 1-0-1 (subah sham) 3 din
+C.Amox500mgTIDx5d
+Combiflam cap 1 stat & SOS for pain x5/7
+Tb crocin adv 500mg 1-1-1-1 x 4d
+Para 650mg 0-0-1 x 3 days hs
+Tab Diclofenac 50 mg twice daily for five days after food
+Aceclofenac 100mg Tab 1-0-1x3D
+Syp Calpol 250mg 5ml tds x 3 days
+Nimesulide 100 tab BD 4days
+Dolo 500mg 1 tab 3 times a day x 3days
+Rx: Tab Paracetamol 1g BD x 5d
+DOLO-650 mg 1 OD x 3 days
+crocin 500mg tds 3days
+Syrup Calpol 125 1 tsf bd x4 days
+Cap Flexon 1 stat & SOS x 3d
+T Ibuprofen 200mg 1-1-1 4D
+Tab Aspirin 75mg 0-1-0 1 month
+syp.paracetamol125mg 5 ml TID x3 days
+Tab Meftal-spas 250 BD x3 days
+zerodol 100mg 1-0-1 x 5/7
+Tab.Naproxen250mg BD x 5 days
+ketorolac 10mg 1 tab po tid for 2 days
+Cap Sumo 500mg bd 4days
+Tab Crocin 500 mg 1-1-1-1 x 3d
+Take Tab Paracetamol 500mg SOS (max 3/day) x 5 days
+Dolo650 tds x 3 days
+Syp.Brufen 100 mg/5ml - 5ml TDS x 5 days
+Tab Voveran 50mg 1-0-1 x 5d PC
+mefenamic acid 500mg tds x3
+Etoricoxib 90 mg OD x 5 days
+Cap Combiflam Plus 1 cap bd x 4days
+Tab. Paracetamol 250mg 1-1-1 for 3 days
+dolo 650 OD 2d
+Syp Calpol 125mg 1 tsp qid x 3d
+Tb. Ibuprofen 600mg tdsx5days
+Tab Diclofenac sod. 50mg tid x 3 days
+Cap Zerodol-P 1-0-1 for 5 days
+Tab Paracetamol 500 mg bd x 1 wk
+Aceclofenac 100mg tab OD for 5days
+Ultracet tab bd x 4d
+Syp Meftal P 5 ml 1-1-1 x 3d
+Naproxen 500 mg 0-0-1 x 5/7
+Tab Dolo 1g od x 3 days
+flexon MR cap bd 4 days
+Tab Nimesulide 50mg tds x 3 days
+Tab Etodolac 400 mg 1-0-1 x 5 days
+Paracetamol 500mg tds x5d
+tab.aceclofenac100mg bd 5 days
+Diclofenac 50mg 1-1-1 x3 days
+Tab Nimesulide 100 mg subah sham x 4 days
+Combiflam 400 cap od x 5d
+Tab Naproxen 250 mg tds x 5 days
+Meftal spas 250mg bd x 3 days
+Tab Etoricoxib 90mg 0-0-1 x 5 days
+T.Pantop40mg 1-0-0 khali pet 10 din
+Cap.Omeprazole 20 mg OD ac x 14 days
+syp augementin 228.5 3.5ml BD 5days
+Tab.Azithral 500 1 OD for 3 days only
+azee 500mg 1 goli rozana 3 din tak
+Inj. Monocef 1gm IV BD x 3 days
+Ceftum 500 tab 1-0-1 after meals 5d
+Tx: Tab. Montek LC 1-0-1 x 1/52
+levocetirizine 5mg 0-0-1 raat ko 5 din
+Tb Allegra 120 mg OD x 10 days
+Syp. Grilinctus 10ml TID x 5 days
+Ascoril LS drops 1 ml qid x 3 days
+Drops Nasivion (Ped) 2 drops in each nostril SOS
+Oint. T-Bact apply locally BD x 7 days
+cream fusidic acid 2% apply to affected area bid
+Lotion Calamine apply bd
+T. Metformin 500mg 1-0-1 (with food) 1 month
+Glycomet GP1 1-0-1 x 30 days
+Tb. Telma 40mg 1-0-0 x 1/12
+Amlodipine 5mg half tab OD x 15 days
+Tab. Eltroxin 50mcg 1 OD early morning x 2 months
+thyronorm 25 mcg 1 tab empty stomach daily
+Syr. Mucolite 5 ml 1-1-1 x 5/7
+Montair FX tab 0-0-1 x 14 days
+Tab. Augmentin 625mg 1-0-1 x 5 days pc
+Tb. Taxim-O 200 bd x 5d
+Cap Doxycycline 100mg 1-0-1 x 7 days
+T. Oflox 200 1-0-1 3 days
+Syp. O2 5ml bd 3 din
+Sporlac DS 1-0-1 for 3 days
+Econorm sachet 1 sachet bd x 3 days in water
+ORS powder 1 pkt in 1L water sip by sip
+Inj. Pan 40mg IV stat
+Tab. Pantodac 40 1-0-0 ac x 5 days
+Rabicip 20mg 1 OD before breakfast
+Syr. Digene 2 tsf tds x 5 days
+Mucaine gel 10ml thrice daily ac x 7d
+T. Domstal 10mg 1 SOS for vomiting
+Ondem 4mg tab 1 stat and SOS
+Syp. Zincovit 5ml OD x 1 month
+Cap. Neurobion Forte 1 OD x 30 days
+Shelcal 500 1-0-1 x 1 month
+Tab. Supradyn 1 OD x 15d
+Folvite 5mg 1 OD x 3 months
+Orofer XT tab 1-0-0 x 1 month
+Syp. Dexorange 10ml bd x 20 days
+Tab. Chymoral Forte 1-1-1 x 5 days
+Tb. Enzomac 1-1-1 x 3 days
+Deflazacort 6mg 1-0-0 x 5 days
+Tab. Omnacortil 10mg 1-0-1 for 3 days, then 1-0-0 for 3 days
+Wysolone 5mg 2 tabs OD x 5 days
+Tab. Atarax 25mg 0-0-1 x 5 days
+Cetirizine 10mg 1 tab hs x 5d
+Tb. PCM 500 + IBU 400 1 SOS x 3 days
+Cap. Pan-D 1-0-0 x 10 days
+T. Zifi 200mg 1-0-1 x 5/7
+Syp. Ibugesic Plus 5ml SOS x 3 days
+Drops Colicaid 0.5ml sos for crying
+T. PCM 650 1-1-1 (if fever >100) x 3d
