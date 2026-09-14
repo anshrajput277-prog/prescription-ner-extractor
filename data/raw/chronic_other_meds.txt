@@ -1,14 +1,5 @@
-Tablet Metformin 500 mg twice a day for 30 days
-Cap Vitamin D3 60000IU - once a week - 8 weeks
-Amlodipine 5mg OD x 30 days
-Tab. Atorvastatin 10 mg, once daily, 30 days
+
 Tablet Losartan 50 mg once a day for 30 days
-Capsule Calcium 500mg - OD - 30 days
-Glimepiride 2mg BD x 30 days
-Tab. Telmisartan 40 mg, once a day, 30 days
-Cap Pantoprazole 40mg once daily for 15 days
-Tablet Metoprolol 25 mg BD x 30 days
-Rosuvastatin 20mg - OD - 30 days
 Tab. Sitagliptin 100 mg, once daily, 30 days
 Tab. Metformin 500mg BD x 30 days
 Tab. Metformin 500mg OD x 30 days
@@ -18,6 +9,8 @@ Tab. Metformin 500mg BD x 60 days
 Tab. Metformin 750mg OD x 30 days
 Tab. Metformin 500mg OD x 15 days
 Tab. Metformin 850mg OD x 30 days
+Amlodipine 5mg OD x 30 days
+Tab. Atorvastatin 10 mg, once daily, 30 days
 Tab. Metformin 1000mg OD x 30 days
 Tab. Metformin 500mg TDS x 30 days
 Tab. Amlodipine 5mg OD x 30 days
@@ -26,8 +19,8 @@ Tab. Amlodipine 5mg OD x 60 days
 Tab. Amlodipine 2.5mg OD x 30 days
 Tab. Amlodipine 5mg BD x 30 days
 Tab. Amlodipine 10mg OD x 60 days
-Tab. Amlodipine 5mg OD x 15 days
-Tab. Amlodipine 2.5mg OD x 60 days
+Capsule Calcium 500mg - OD - 30 days
+Glimepiride 2mg BD x 30 days
 Tab. Amlodipine 10mg OD x 30 days
 Tab. Amlodipine 5mg BD x 60 days
 Cap. Vitamin D 60000 IU weekly x 8 weeks
@@ -44,8 +37,8 @@ Tab. Metformin 500mg BD x 90 days
 Tab. Metformin 850mg BD x 60 days
 Tab. Metformin 1000mg BD x 60 days
 Tab. Metformin 500mg OD x 90 days
-Tab. Metformin 750mg OD x 60 days
-Tab. Metformin 850mg OD x 60 days
+Tablet Metformin 500 mg twice a day for 30 days
+Cap Vitamin D3 60000IU - once a week - 8 weeks
 Tab. Amlodipine 5mg OD x 90 days
 Tab. Amlodipine 10mg OD x 90 days
 Tab. Amlodipine 2.5mg OD x 90 days
@@ -55,6 +48,10 @@ Cap. Vitamin D 60000 IU weekly x 5 weeks
 Tab. Vitamin D 1000 IU OD x 90 days
 Tab. Vitamin D 2000 IU OD x 90 days
 Tab. Metformin 500mg BD x 45 days
+Tab. Telmisartan 40 mg, once a day, 30 days
+Cap Pantoprazole 40mg once daily for 15 days
+Tablet Metoprolol 25 mg BD x 30 days
+Rosuvastatin 20mg - OD - 30 days
 Tab. Metformin 850mg BD x 45 days
 Tab. Amlodipine 5mg OD x 45 days
 Tab. Amlodipine 10mg OD x 45 days
