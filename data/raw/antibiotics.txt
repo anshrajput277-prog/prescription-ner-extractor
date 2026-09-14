@@ -1,57 +1,57 @@
-Cap. Amoxicillin 250mg BD x 7 days
-Tab. Azithromycin 500mg OD x 3 days
-Tablet Cefpodoxime 200 mg BD x 5 days
-Ofloxacin 200mg - BD - 5 days
-Tab. Amoxyclav 375 mg, thrice daily, 7 days
-Tab. Augmentin 625mg BD x 5 days
-Cap. Amoxyclav 375mg TDS x 7 days
-Tab. Ciprofloxacin 500mg BD x 5 days
-Tab. Cefixime 200mg BD x 5 days
-Tablet Azithromycin 500 mg once a day for 3 days
-Cap Amoxicillin 250mg - TDS - 7 days
-Cap. Doxycycline 100mg OD x 7 days
-Tab. Metronidazole 400mg TDS x 5 days
-Tab. Azithral 500mg OD x 3 days
-Cap. Amoxicillin 500mg TDS x 5 days
-Tab. Levofloxacin 500mg OD x 7 days
-Cap. Clindamycin 300mg TDS x 5 days
-Tab. Cefpodoxime 200mg BD x 5 days
-Capsule Doxycycline 100mg once a day for 7 days
-Tablet Cefixime 200 mg - BD - 5 days
-Tab. Ofloxacin 200mg BD x 5 days
-Cap. Ampicillin 500mg QID x 7 days
-Tab. Cephalexin 500mg TDS x 7 days
-Cap. Amoxyclav 500mg BD x 7 days
-Cap Levofloxacin 500mg once daily for 7 days
-Tab. Norfloxacin 400mg BD x 5 days
-Cap. Amoxyclav 625mg BD x 7 days
-Tab. Azee 500mg OD x 5 days
-Tab. Moxikind CV 625mg BD x 5 days
-Cap. Tetracycline 250mg QID x 7 days
-Ciprofloxacin 500mg BD x 5 days
-Tab. Augmentin 625 mg, twice daily, 5 days
-Tab. Roxithromycin 150mg BD x 5 days
-Tab. Cefadroxil 500mg BD x 7 days
-Cap. Ampiclox 500mg TDS x 5 days
-Tab. Clarithromycin 500mg BD x 7 days
-Tab. Cifran 500mg BD x 5 days
-Cap. Linezolid 600mg BD x 10 days
-Tab. Cotrimoxazole 960mg BD x 5 days
-Tab. Nitrofurantoin 100mg QID x 7 days
-Cap. Rifampicin 450mg OD x 30 days
-Tab. Gatifloxacin 400mg OD x 5 days
-Tab. Cefuroxime 500mg BD x 7 days
-Cap. Amoxicillin 250mg TDS x 5 days
-Metronidazole 400mg TDS x 5 days
-Tab. Clarithromycin 500 mg, twice a day, 7 days
-Tab. Azithromycin 250mg OD x 5 days
-Tab. Augmentin 375mg TDS x 7 days
-Cap. Flucloxacillin 500mg QID x 7 days
-Tab. Ciplox 500mg BD x 5 days
-Tab. Zifi 200mg BD x 5 days
-Cap. Doxy 100mg BD x 7 days
-Tab. Metrogyl 400mg TDS x 7 days
-Tab. Azee 250mg OD x 3 days
-Cap. Mox 500mg TDS x 5 days
-Tab. Taxim-O 200mg BD x 5 days
-Tab. Norflox 400mg BD x 5 days
+Pt advised Cap.Amox250mg(1-0-1)x1/52 for infection
+Azithro 0.5g 1 OD (1 hr a.c) x 3 days only
+Start T.Cefpodoxime 200 b.i.d. x 5/7
+Oflox 200 1-0-1 pc x 5d
+Amoxyclav-375mg t.i.d x 1wk
+Rx T.Augmentin625 1-0-1 x 5 din
+Cap. Amoxclav 375mg 1-1-1 x 7/7
+Cipro 500mg goli 1 subah 1 sham x 5d
+T.Cefixime200 1-0-1 x 5 days
+Azithromycin 500mg q.d. x 3/7
+Amoxicillin 250 cap 1-1-1 x 1/52
+Cap. Doxy-100 1-0-0 x 7d
+Metrogyl(Metronidazole)400 1-1-1 x 5d
+Azithral 500 1-0-0 x 3 days
+Amox 0.5g 1-1-1 x 5/7
+T.Levo 500mg OD x 7d
+Cap.Clinda300 1-1-1 x 5 days
+Cefpodoxime 200 b.i.d x 5d
+Doxy 100mg cap q.a.m. x 1 wk
+Cefixime 200mg 1-0-1 x 5/7
+Tab Oflox 200 bd x 5d
+Ampicillin 500mg q.i.d x 1/52
+Cephadex 500 1-1-1 x 7d
+Cap.Amoxyclav500 1-0-1 x 1wk
+Levo 500 cap 1-0-0 x 7/7
+Norflox 400 1-0-1 pc x 5d
+Amoxyclav 625 1-0-1 x 7 days
+T.Azee500 1-0-0 x 5/7
+Moxikind-CV 625mg 1-0-1 x 5d
+Cap Tetra 250mg 1-1-1-1 x 1/52
+Cipro 500 1-0-1 x 5/7
+Tab.Augmentin 625 1-0-1 x 5 days
+Roxi 150 b.i.d x 5d
+T.Cefadroxil 500mg 1-0-1 x 7/7
+Cap Ampiclox 500 1-1-1 x 5d
+Clari 500 1-0-1 x 1 wk
+Cifran 500 1-0-1 x 5/7
+Linezolid 600 cap bd x 10 days
+Cotrimoxazole 960 1-0-1 x 5d
+Nitrofurantoin 100 1-1-1-1 x 1/52
+Cap.Rifampicin 450 1-0-0 x 1/12 (empty stomach)
+Gati 400 1-0-0 x 5d
+T.Cefuroxime 0.5g 1-0-1 x 1 wk
+Amox 250 1-1-1 x 5/7
+Metrogyl 400 1-1-1 x 5d
+Clarithro 500 b.i.d. x 7d
+Azithral 250 1-0-0 x 5/7
+T.Augmentin375 1-1-1 x 1 wk
+Fluclox 500 cap q.i.d. x 7d
+Ciplox-500 1-0-1 x 5/7
+Zifi 200 1-0-1 x 5d
+Cap Doxy-100 1-0-1 x 1/52
+T.Metrogyl 400 1-1-1 x 7d
+Azee-250 1-0-0 x 3/7
+Mox 500 1-1-1 x 5d
+TaximO-200 1-0-1 x 5/7
+Norflox-400 1-0-1 x 5d
