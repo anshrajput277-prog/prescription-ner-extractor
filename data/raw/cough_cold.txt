@@ -1,55 +1,120 @@
-Tab. Cetirizine 10mg OD x 5 days
-Syp. Ascoril 10ml TDS x 5 days
-Tab. Levocetirizine 5mg OD x 5 days
-Syp. Benadryl 10ml TDS x 4 days
-Tablet Cetirizine 10 mg once a day for 5 days
-Syrup Ascoril 10ml - TDS - 5 days
-Tab. Montair LC OD x 7 days
-Syp. Alex 5ml TDS x 5 days
-Tab. Allegra 120mg OD x 5 days
-Syp. Grilinctus 10ml TDS x 5 days
-Tab. Chlorpheniramine 4mg BD x 3 days
-Syrup Benadryl 10ml thrice daily for 4 days
-Tablet Allegra 120 mg - OD - 5 days
-Syp. Corex 10ml TDS x 4 days
-Tab. Fexofenadine 180mg OD x 5 days
-Syp. Chericof 10ml TDS x 5 days
-Tab. Montek LC OD x 10 days
-Syp. Tussin 5ml TDS x 5 days
-Tab. Cetzine 10mg OD x 7 days
-Syp. Phensedyl 10ml TDS x 4 days
-Tab. Avil 25mg BD x 3 days
-Syp. Benadryl DR 10ml TDS x 5 days
-Levocetirizine 5mg OD x 5 days
-Tab. Montair LC 10 mg, once daily, 7 days
-Chlorpheniramine 4mg BD x 3 days
-Tab. Zyrtec 10mg OD x 5 days
-Syp. Sinarest 10ml TDS x 5 days
-Tab. Desloratadine 5mg OD x 5 days
-Syp. Koflet 10ml TDS x 5 days
-Tab. Hydroxyzine 25mg BD x 5 days
-Syp. Solvin 5ml TDS x 5 days
-Tab. Rhinocap OD x 5 days
-Syp. Cofsils 10ml TDS x 4 days
-Tab. Fexofenadine 180 mg, once a day, 5 days
-Cap Montelukast 10mg once daily for 14 days
-Tablet Zyrtec 10 mg OD x 5 days
-Tab. Montelukast 10mg OD x 14 days
-Syp. Zedex 10ml TDS x 5 days
-Tab. Cheston Cold BD x 5 days
-Syp. Torex 10ml TDS x 5 days
-Tab. Wikoryl BD x 5 days
-Syp. Ascoril LS 10ml TDS x 5 days
-Tab. Levolin 8mg BD x 5 days
-Syp. Bro-Zedex 5ml TDS x 5 days
-Tab. Cetirizine 5mg OD x 3 days
-Syp. Cofdex 10ml TDS x 4 days
-Tab. Actifed BD x 5 days
-Syp. Sinarest AF 10ml TDS x 5 days
-Tab. Okacet 10mg OD x 5 days
-Syp. Tossex 10ml TDS x 5 days
-Tab. Montek 10mg OD x 10 days
-Syp. Chericof Plus 10ml TDS x 5 days
-Tab. Pyrimon BD x 3 days
-Hydroxyzine 25mg - BD - 5 days
-Syrup Grilinctus 10ml, thrice daily, 5 days
+Rx Tab.Cetirizine10mg 0-0-1 x 5d
+syp. Ascoril 10ml tds x5/7
+T.levocetirizine 5mg 1 raat ko 5 din
+Syp Benadryl 2 tsf tds 4 days
+Tab Cetirizine 10 mg 1-0-0 5d
+Syr Ascoril 10 ml 1-1-1 x 5days
+Montair-LC tab 0-0-1 1 wk
+Syp Alex 5ml (1 tsp) tds x 5d
+Tb.Allegra120mg od x 5/7
+Grilinctus Syp 10ml 3 times a day x 5 days
+Tab Chlorpheniramine 4mg 1-0-1 x 3d
+Syrup Benadryl 10ml TDS 4 din
+Tab. Alegra 120 mg ODx5 days
+syp.Corex 10ml tds x4d
+Tab. Fexofenadine180mg 1-0-0 x 5d
+Syp Chericof 10 ml 1-1-1 for 5 days
+Montek LC tab 1 rozana raat me 10 days
+Syp Tussin 5ml tds x5/7
+Tab Cetzine 10mg 0-0-1 x 1 week
+Syp.Phensedyl 10ml TDS x 4 days
+T. Avil 25mg 1-0-1 x 3 days
+Syr.Benadryl DR 10 ml tid x 5 days
+levocetirizine 5mg OD hs 5d
+Montair LC 10mg tab 0-0-1 x 7D
+Chlorpheniramine 4mg bd 3days
+Zyrtec 10mg tab 1 OD x 5d
+Syp Sinarest 10 ml tds x 5days
+Tab Desloratadine 5mg 1-0-0 x 5 days
+syp Koflet 10ml 1-1-1 5 din
+Hydroxyzine 25mg bd x 5/7
+Syp Solvin 5ml tds x5d
+Tab Rhinocap 1 OD x 5 days
+Syp.Cofsils 10ml tds x4d
+Fexofenadine 180 mg tab OD x 5 days
+Cap Montelukast 10mg 0-0-1 x 14d
+Tb Zyrtec 10 mg ODx5days
+Tab Montelukast 10mg 1 hs x 14 days
+syp Zedex 10ml tds x 5d
+Tab Cheston Cold 1-0-1 x 5/7
+Syr Torex 10ml TDS 5days
+Wikoryl tab 1-0-1 x 5 days
+Syp. Ascoril LS 10ml 1-1-1 x 5d
+Tab Levolin 8mg bd x5days
+Syp Bro-Zedex 5ml tds 5 din
+Tab Cetirizine 5mg 0-0-1 3 days
+Syp Cofdex 10 ml tds x4 days
+Tab Actifed 1-0-1 x 5d
+syp Sinarest AF 10ml tds x 5days
+Okacet 10mg tab 0-0-1 x 5d
+Tossex syp 10ml tid x 5 days
+Montek 10mg tab 0-0-1 10days
+Syp.Chericof Plus 10ml tds x5d
+Tab Pyrimon 1-0-1 x 3 days
+Hydroxyzine 25mg bd 5d
+Grilinctus Syp 10ml TDS x 5 days
+Rx T.Citrizine 10mg 1 raat ko x5/7
+Syp.Ascoril10ml tdsx5days
+Tab. Levocet 5 mg 1 OD x 5d
+Benadryl syp 2 chammach tds x4d
+Tab. Montair-LC 0-0-1 x 1 wk
+syp alex 5 ml 1-1-1 x 5days
+Allegra 120mg tab 1-0-0 5d
+Grilinctus syrup 10ml tid x 5 days
+T.CPM 4mg 1-0-1 x 3d
+syp.benadryl 10ml tds 4days
+Tb Allegra 120 1-0-0 x 5d
+Corex syp 10 ml 1-1-1 4 din
+Tab Fexofenadine 180mg OD x 5 days
+Syp.Chericof 10ml tds x5/7
+Tab Montek Lc 0-0-1 10 days
+Syp tussin 5ml tds x5d
+Cetzine 10mg tab OD hs 7days
+Phensedyl 10ml tds x 4d
+T.Avil 25 1-0-1 x 3 days
+Syp Benadryl DR 10ml 1-1-1 x 5d
+Levocetirizine 5mg 0-0-1 x 5days
+Tab Montair lc 10mg OD x 7D
+CPM 4mg bd x 3 days
+Tab.Zyrtec 10mg 0-0-1 x 5d
+syp sinarest 10 ml tds 5 days
+Tab Desloratadine 5 mg OD 5d
+Koflet syp 10ml tds x 5 days
+Tb.Hydroxyzine 25mg 1-0-1 x 5/7
+Syp Solvin 5 ml 1-1-1 x 5d
+Rhinocap tab 1 OD x 5 days
+Syp Cofsils 10ml tds 4days
+Fexofenadine 180 OD x 5 days
+Cap Montelukast 10 mg 0-0-1 14 days
+Zyrtec 10mg 1-0-0 x 5d
+Tab.Montelukast10mg hs x 14d
+syp zedex 10ml tds x 5days
+Cheston cold tab 1-0-1 x 5 days
+Torex syp 10ml 1-1-1 5 din
+Tb Wikoryl 1-0-1 x 5d
+Syp Ascoril-LS 10 ml tds x 5days
+Levolin 8mg tab 1-0-1 x 5d
+Syp.bro-zedex 5ml tds x 5 days
+Cetirizine 5mg 0-0-1 x 3d
+Cofdex syp 10ml tds x 4 days
+T. Actifed bd x 5 days
+Syp Sinarest-AF 10ml 1-1-1 x 5d
+Okacet 10mg 0-0-1 x 5 days
+Tossex syp 10ml tds x 5d
+Tab Montek 10mg 0-0-1 x 10 days
+Syp Chericof plus 10 ml tds x 5days
+Tab Pyrimon 1-0-1 x 3d
+Tb Hydroxyzine 25mg bd x 5 days
+Syr Grilinctus 10ml 3 times a day x 5d
+Rx: Tab Cetirizine 10mg 1 OD (night) x 5 days
+Syp Ascoril 2 dhakkan tds x 5 din
+Tb Levocetirizine 5mg 0-0-1 for 5 days
+Benadryl Syp 10ml sos for cough
+Tab Montair-LC 1 rozana x 7/7
+Syp Alex 5ml (khansi aane par) tds x 5d
+Tab Allegra 120mg 1-0-0 empty stomach x 5d
+Grilinctus 10ml 1-1-1 x 5d
+T Chlorpheniramine 4mg bd 3d
+Benadryl 10 ml tds 4 days
+Tb Allegra 120mg 1 OD x 5/7
+Corex Syp 10ml 1-1-1 x 4d
