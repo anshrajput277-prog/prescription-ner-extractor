@@ -1,133 +1,421 @@
-{"text": "Cap. Amoxicillin 250mg BD x 7 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Tab. Azithromycin 500mg OD x 3 days", "entities": [[5, 17, "MEDICINE"], [18, 23, "DOSAGE"], [24, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
-{"text": "Tab. Augmentin 625mg BD x 5 days", "entities": [[5, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 23, "FREQUENCY"], [26, 32, "DURATION"]]}
-{"text": "Cap. Amoxyclav 375mg TDS x 7 days", "entities": [[5, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 24, "FREQUENCY"], [27, 33, "DURATION"]]}
-{"text": "Tab. Ciprofloxacin 500mg BD x 5 days", "entities": [[5, 18, "MEDICINE"], [19, 24, "DOSAGE"], [25, 27, "FREQUENCY"], [30, 36, "DURATION"]]}
-{"text": "Tab. Cefixime 200mg BD x 5 days", "entities": [[5, 13, "MEDICINE"], [14, 19, "DOSAGE"], [20, 22, "FREQUENCY"], [25, 31, "DURATION"]]}
-{"text": "Cap. Doxycycline 100mg OD x 7 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Tab. Metronidazole 400mg TDS x 5 days", "entities": [[5, 18, "MEDICINE"], [19, 24, "DOSAGE"], [25, 28, "FREQUENCY"], [31, 37, "DURATION"]]}
-{"text": "Tab. Azithral 500mg OD x 3 days", "entities": [[5, 13, "MEDICINE"], [14, 19, "DOSAGE"], [20, 22, "FREQUENCY"], [25, 31, "DURATION"]]}
-{"text": "Cap. Amoxicillin 500mg TDS x 5 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
-{"text": "Tab. Levofloxacin 500mg OD x 7 days", "entities": [[5, 17, "MEDICINE"], [18, 23, "DOSAGE"], [24, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
-{"text": "Cap. Clindamycin 300mg TDS x 5 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
-{"text": "Tab. Cefpodoxime 200mg BD x 5 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Tab. Ofloxacin 200mg BD x 5 days", "entities": [[5, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 23, "FREQUENCY"], [26, 32, "DURATION"]]}
-{"text": "Cap. Ampicillin 500mg QID x 7 days", "entities": [[5, 15, "MEDICINE"], [16, 21, "DOSAGE"], [22, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Tab. Cephalexin 500mg TDS x 7 days", "entities": [[5, 15, "MEDICINE"], [16, 21, "DOSAGE"], [22, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Tab. Norfloxacin 400mg BD x 5 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Cap. Amoxyclav 625mg BD x 7 days", "entities": [[5, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 23, "FREQUENCY"], [26, 32, "DURATION"]]}
-{"text": "Tab. Azee 500mg OD x 5 days", "entities": [[5, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 18, "FREQUENCY"], [21, 27, "DURATION"]]}
-{"text": "Tab. Moxikind CV 625mg BD x 5 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Cap. Tetracycline 250mg QID x 7 days", "entities": [[5, 17, "MEDICINE"], [18, 23, "DOSAGE"], [24, 27, "FREQUENCY"], [30, 36, "DURATION"]]}
-{"text": "Tab. Roxithromycin 150mg BD x 5 days", "entities": [[5, 18, "MEDICINE"], [19, 24, "DOSAGE"], [25, 27, "FREQUENCY"], [30, 36, "DURATION"]]}
-{"text": "Tab. Cefadroxil 500mg BD x 7 days", "entities": [[5, 15, "MEDICINE"], [16, 21, "DOSAGE"], [22, 24, "FREQUENCY"], [27, 33, "DURATION"]]}
-{"text": "Cap. Ampiclox 500mg TDS x 5 days", "entities": [[5, 13, "MEDICINE"], [14, 19, "DOSAGE"], [20, 23, "FREQUENCY"], [26, 32, "DURATION"]]}
-{"text": "Tab. Clarithromycin 500mg BD x 7 days", "entities": [[5, 19, "MEDICINE"], [20, 25, "DOSAGE"], [26, 28, "FREQUENCY"], [31, 37, "DURATION"]]}
-{"text": "Tab. Cifran 500mg BD x 5 days", "entities": [[5, 11, "MEDICINE"], [12, 17, "DOSAGE"], [18, 20, "FREQUENCY"], [23, 29, "DURATION"]]}
-{"text": "Cap. Linezolid 600mg BD x 10 days", "entities": [[5, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 23, "FREQUENCY"], [26, 33, "DURATION"]]}
-{"text": "Tab. Cotrimoxazole 960mg BD x 5 days", "entities": [[5, 18, "MEDICINE"], [19, 24, "DOSAGE"], [25, 27, "FREQUENCY"], [30, 36, "DURATION"]]}
-{"text": "Tab. Nitrofurantoin 100mg QID x 7 days", "entities": [[5, 19, "MEDICINE"], [20, 25, "DOSAGE"], [26, 29, "FREQUENCY"], [32, 38, "DURATION"]]}
-{"text": "Cap. Rifampicin 450mg OD x 30 days", "entities": [[5, 15, "MEDICINE"], [16, 21, "DOSAGE"], [22, 24, "FREQUENCY"], [27, 34, "DURATION"]]}
-{"text": "Tab. Gatifloxacin 400mg OD x 5 days", "entities": [[5, 17, "MEDICINE"], [18, 23, "DOSAGE"], [24, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
-{"text": "Tab. Cefuroxime 500mg BD x 7 days", "entities": [[5, 15, "MEDICINE"], [16, 21, "DOSAGE"], [22, 24, "FREQUENCY"], [27, 33, "DURATION"]]}
-{"text": "Cap. Amoxicillin 250mg TDS x 5 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
-{"text": "Tab. Azithromycin 250mg OD x 5 days", "entities": [[5, 17, "MEDICINE"], [18, 23, "DOSAGE"], [24, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
-{"text": "Tab. Augmentin 375mg TDS x 7 days", "entities": [[5, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 24, "FREQUENCY"], [27, 33, "DURATION"]]}
-{"text": "Cap. Flucloxacillin 500mg QID x 7 days", "entities": [[5, 19, "MEDICINE"], [20, 25, "DOSAGE"], [26, 29, "FREQUENCY"], [32, 38, "DURATION"]]}
-{"text": "Tab. Ciplox 500mg BD x 5 days", "entities": [[5, 11, "MEDICINE"], [12, 17, "DOSAGE"], [18, 20, "FREQUENCY"], [23, 29, "DURATION"]]}
-{"text": "Tab. Zifi 200mg BD x 5 days", "entities": [[5, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 18, "FREQUENCY"], [21, 27, "DURATION"]]}
-{"text": "Cap. Doxy 100mg BD x 7 days", "entities": [[5, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 18, "FREQUENCY"], [21, 27, "DURATION"]]}
-{"text": "Tab. Metrogyl 400mg TDS x 7 days", "entities": [[5, 13, "MEDICINE"], [14, 19, "DOSAGE"], [20, 23, "FREQUENCY"], [26, 32, "DURATION"]]}
-{"text": "Tab. Azee 250mg OD x 3 days", "entities": [[5, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 18, "FREQUENCY"], [21, 27, "DURATION"]]}
-{"text": "Cap. Mox 500mg TDS x 5 days", "entities": [[5, 8, "MEDICINE"], [9, 14, "DOSAGE"], [15, 18, "FREQUENCY"], [21, 27, "DURATION"]]}
-{"text": "Tab. Taxim-O 200mg BD x 5 days", "entities": [[5, 12, "MEDICINE"], [13, 18, "DOSAGE"], [19, 21, "FREQUENCY"], [24, 30, "DURATION"]]}
-{"text": "Tab. Norflox 400mg BD x 5 days", "entities": [[5, 12, "MEDICINE"], [13, 18, "DOSAGE"], [19, 21, "FREQUENCY"], [24, 30, "DURATION"]]}
-{"text": "Cap. Amoxyclav 500mg BD x 7 days", "entities": [[5, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 23, "FREQUENCY"], [26, 32, "DURATION"]]}
-{"text": "Tab. Cetirizine 10mg OD x 5 days", "entities": [[5, 15, "MEDICINE"], [16, 20, "DOSAGE"], [21, 23, "FREQUENCY"], [26, 32, "DURATION"]]}
-{"text": "Syp. Ascoril 10ml TDS x 5 days", "entities": [[5, 12, "MEDICINE"], [13, 17, "DOSAGE"], [18, 21, "FREQUENCY"], [24, 30, "DURATION"]]}
-{"text": "Tab. Levocetirizine 5mg OD x 5 days", "entities": [[5, 19, "MEDICINE"], [20, 23, "DOSAGE"], [24, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
-{"text": "Syp. Benadryl 10ml TDS x 4 days", "entities": [[5, 13, "MEDICINE"], [14, 18, "DOSAGE"], [19, 22, "FREQUENCY"], [25, 31, "DURATION"]]}
-{"text": "Tab. Montair LC OD x 7 days", "entities": [[5, 15, "MEDICINE"], [16, 18, "FREQUENCY"], [21, 27, "DURATION"]]}
-{"text": "Syp. Alex 5ml TDS x 5 days", "entities": [[5, 9, "MEDICINE"], [10, 13, "DOSAGE"], [14, 17, "FREQUENCY"], [20, 26, "DURATION"]]}
-{"text": "Tab. Allegra 120mg OD x 5 days", "entities": [[5, 12, "MEDICINE"], [13, 18, "DOSAGE"], [19, 21, "FREQUENCY"], [24, 30, "DURATION"]]}
-{"text": "Syp. Grilinctus 10ml TDS x 5 days", "entities": [[5, 15, "MEDICINE"], [16, 20, "DOSAGE"], [21, 24, "FREQUENCY"], [27, 33, "DURATION"]]}
-{"text": "Tab. Chlorpheniramine 4mg BD x 3 days", "entities": [[5, 21, "MEDICINE"], [22, 25, "DOSAGE"], [26, 28, "FREQUENCY"], [31, 37, "DURATION"]]}
-{"text": "Syp. Corex 10ml TDS x 4 days", "entities": [[5, 10, "MEDICINE"], [11, 15, "DOSAGE"], [16, 19, "FREQUENCY"], [22, 28, "DURATION"]]}
-{"text": "Tab. Fexofenadine 180mg OD x 5 days", "entities": [[5, 17, "MEDICINE"], [18, 23, "DOSAGE"], [24, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
-{"text": "Syp. Chericof 10ml TDS x 5 days", "entities": [[5, 13, "MEDICINE"], [14, 18, "DOSAGE"], [19, 22, "FREQUENCY"], [25, 31, "DURATION"]]}
-{"text": "Tab. Montek LC OD x 10 days", "entities": [[5, 14, "MEDICINE"], [15, 17, "FREQUENCY"], [20, 27, "DURATION"]]}
-{"text": "Syp. Tussin 5ml TDS x 5 days", "entities": [[5, 11, "MEDICINE"], [12, 15, "DOSAGE"], [16, 19, "FREQUENCY"], [22, 28, "DURATION"]]}
-{"text": "Tab. Cetzine 10mg OD x 7 days", "entities": [[5, 12, "MEDICINE"], [13, 17, "DOSAGE"], [18, 20, "FREQUENCY"], [23, 29, "DURATION"]]}
-{"text": "Syp. Phensedyl 10ml TDS x 4 days", "entities": [[5, 14, "MEDICINE"], [15, 19, "DOSAGE"], [20, 23, "FREQUENCY"], [26, 32, "DURATION"]]}
-{"text": "Tab. Avil 25mg BD x 3 days", "entities": [[5, 9, "MEDICINE"], [10, 14, "DOSAGE"], [15, 17, "FREQUENCY"], [20, 26, "DURATION"]]}
-{"text": "Syp. Benadryl DR 10ml TDS x 5 days", "entities": [[5, 16, "MEDICINE"], [17, 21, "DOSAGE"], [22, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Tab. Zyrtec 10mg OD x 5 days", "entities": [[5, 11, "MEDICINE"], [12, 16, "DOSAGE"], [17, 19, "FREQUENCY"], [22, 28, "DURATION"]]}
-{"text": "Syp. Sinarest 10ml TDS x 5 days", "entities": [[5, 13, "MEDICINE"], [14, 18, "DOSAGE"], [19, 22, "FREQUENCY"], [25, 31, "DURATION"]]}
-{"text": "Tab. Desloratadine 5mg OD x 5 days", "entities": [[5, 18, "MEDICINE"], [19, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Syp. Koflet 10ml TDS x 5 days", "entities": [[5, 11, "MEDICINE"], [12, 16, "DOSAGE"], [17, 20, "FREQUENCY"], [23, 29, "DURATION"]]}
-{"text": "Tab. Hydroxyzine 25mg BD x 5 days", "entities": [[5, 16, "MEDICINE"], [17, 21, "DOSAGE"], [22, 24, "FREQUENCY"], [27, 33, "DURATION"]]}
-{"text": "Syp. Solvin 5ml TDS x 5 days", "entities": [[5, 11, "MEDICINE"], [12, 15, "DOSAGE"], [16, 19, "FREQUENCY"], [22, 28, "DURATION"]]}
-{"text": "Tab. Rhinocap OD x 5 days", "entities": [[5, 13, "MEDICINE"], [14, 16, "FREQUENCY"], [19, 25, "DURATION"]]}
-{"text": "Syp. Cofsils 10ml TDS x 4 days", "entities": [[5, 12, "MEDICINE"], [13, 17, "DOSAGE"], [18, 21, "FREQUENCY"], [24, 30, "DURATION"]]}
-{"text": "Tab. Montelukast 10mg OD x 14 days", "entities": [[5, 16, "MEDICINE"], [17, 21, "DOSAGE"], [22, 24, "FREQUENCY"], [27, 34, "DURATION"]]}
-{"text": "Syp. Zedex 10ml TDS x 5 days", "entities": [[5, 10, "MEDICINE"], [11, 15, "DOSAGE"], [16, 19, "FREQUENCY"], [22, 28, "DURATION"]]}
-{"text": "Tab. Cheston Cold BD x 5 days", "entities": [[5, 17, "MEDICINE"], [18, 20, "FREQUENCY"], [23, 29, "DURATION"]]}
-{"text": "Syp. Torex 10ml TDS x 5 days", "entities": [[5, 10, "MEDICINE"], [11, 15, "DOSAGE"], [16, 19, "FREQUENCY"], [22, 28, "DURATION"]]}
-{"text": "Tab. Wikoryl BD x 5 days", "entities": [[5, 12, "MEDICINE"], [13, 15, "FREQUENCY"], [18, 24, "DURATION"]]}
-{"text": "Syp. Ascoril LS 10ml TDS x 5 days", "entities": [[5, 15, "MEDICINE"], [16, 20, "DOSAGE"], [21, 24, "FREQUENCY"], [27, 33, "DURATION"]]}
-{"text": "Tab. Levolin 8mg BD x 5 days", "entities": [[5, 12, "MEDICINE"], [13, 16, "DOSAGE"], [17, 19, "FREQUENCY"], [22, 28, "DURATION"]]}
-{"text": "Syp. Bro-Zedex 5ml TDS x 5 days", "entities": [[5, 14, "MEDICINE"], [15, 18, "DOSAGE"], [19, 22, "FREQUENCY"], [25, 31, "DURATION"]]}
-{"text": "Tab. Cetirizine 5mg OD x 3 days", "entities": [[5, 15, "MEDICINE"], [16, 19, "DOSAGE"], [20, 22, "FREQUENCY"], [25, 31, "DURATION"]]}
-{"text": "Syp. Cofdex 10ml TDS x 4 days", "entities": [[5, 11, "MEDICINE"], [12, 16, "DOSAGE"], [17, 20, "FREQUENCY"], [23, 29, "DURATION"]]}
-{"text": "Tab. Actifed BD x 5 days", "entities": [[5, 12, "MEDICINE"], [13, 15, "FREQUENCY"], [18, 24, "DURATION"]]}
-{"text": "Syp. Sinarest AF 10ml TDS x 5 days", "entities": [[5, 16, "MEDICINE"], [17, 21, "DOSAGE"], [22, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Tab. Okacet 10mg OD x 5 days", "entities": [[5, 11, "MEDICINE"], [12, 16, "DOSAGE"], [17, 19, "FREQUENCY"], [22, 28, "DURATION"]]}
-{"text": "Syp. Tossex 10ml TDS x 5 days", "entities": [[5, 11, "MEDICINE"], [12, 16, "DOSAGE"], [17, 20, "FREQUENCY"], [23, 29, "DURATION"]]}
-{"text": "Tab. Montek 10mg OD x 10 days", "entities": [[5, 11, "MEDICINE"], [12, 16, "DOSAGE"], [17, 19, "FREQUENCY"], [22, 29, "DURATION"]]}
-{"text": "Syp. Chericof Plus 10ml TDS x 5 days", "entities": [[5, 18, "MEDICINE"], [19, 23, "DOSAGE"], [24, 27, "FREQUENCY"], [30, 36, "DURATION"]]}
-{"text": "Tab. Pyrimon BD x 3 days", "entities": [[5, 12, "MEDICINE"], [13, 15, "FREQUENCY"], [18, 24, "DURATION"]]}
-{"text": "Tab. Paracetamol 500mg TDS x 3 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
-{"text": "Tab. Dolo 650mg BD x 5 days", "entities": [[5, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 18, "FREQUENCY"], [21, 27, "DURATION"]]}
-{"text": "Tab. Ibuprofen 400mg TDS x 3 days", "entities": [[5, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 24, "FREQUENCY"], [27, 33, "DURATION"]]}
-{"text": "Cap. Combiflam SOS x 5 days", "entities": [[5, 14, "MEDICINE"], [15, 18, "FREQUENCY"], [21, 27, "DURATION"]]}
-{"text": "Tab. Crocin Advance 500mg QID x 4 days", "entities": [[5, 19, "MEDICINE"], [20, 25, "DOSAGE"], [26, 29, "FREQUENCY"], [32, 38, "DURATION"]]}
-{"text": "Tab. Paracetamol 650mg OD x 3 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Tab. Diclofenac 50mg BD x 5 days", "entities": [[5, 15, "MEDICINE"], [16, 20, "DOSAGE"], [21, 23, "FREQUENCY"], [26, 32, "DURATION"]]}
-{"text": "Tab. Aceclofenac 100mg BD x 3 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Syp. Calpol 250mg TDS x 3 days", "entities": [[5, 11, "MEDICINE"], [12, 17, "DOSAGE"], [18, 21, "FREQUENCY"], [24, 30, "DURATION"]]}
-{"text": "Tab. Nimesulide 100mg BD x 4 days", "entities": [[5, 15, "MEDICINE"], [16, 21, "DOSAGE"], [22, 24, "FREQUENCY"], [27, 33, "DURATION"]]}
-{"text": "Tab. Dolo 500mg TDS x 3 days", "entities": [[5, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 19, "FREQUENCY"], [22, 28, "DURATION"]]}
-{"text": "Tab. Paracetamol 1000mg BD x 5 days", "entities": [[5, 16, "MEDICINE"], [17, 23, "DOSAGE"], [24, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
-{"text": "Cap. Flexon SOS x 3 days", "entities": [[5, 11, "MEDICINE"], [12, 15, "FREQUENCY"], [18, 24, "DURATION"]]}
-{"text": "Tab. Ibuprofen 200mg TDS x 4 days", "entities": [[5, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 24, "FREQUENCY"], [27, 33, "DURATION"]]}
-{"text": "Tab. Aspirin 75mg OD x 30 days", "entities": [[5, 12, "MEDICINE"], [13, 17, "DOSAGE"], [18, 20, "FREQUENCY"], [23, 30, "DURATION"]]}
-{"text": "Syp. Paracetamol 125mg TDS x 3 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
-{"text": "Tab. Meftal Spas 250mg BD x 3 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Tab. Zerodol 100mg BD x 5 days", "entities": [[5, 12, "MEDICINE"], [13, 18, "DOSAGE"], [19, 21, "FREQUENCY"], [24, 30, "DURATION"]]}
-{"text": "Tab. Naproxen 250mg BD x 5 days", "entities": [[5, 13, "MEDICINE"], [14, 19, "DOSAGE"], [20, 22, "FREQUENCY"], [25, 31, "DURATION"]]}
-{"text": "Tab. Ketorolac 10mg TDS x 2 days", "entities": [[5, 14, "MEDICINE"], [15, 19, "DOSAGE"], [20, 23, "FREQUENCY"], [26, 32, "DURATION"]]}
-{"text": "Cap. Sumo 500mg BD x 4 days", "entities": [[5, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 18, "FREQUENCY"], [21, 27, "DURATION"]]}
-{"text": "Tab. Crocin 500mg QID x 3 days", "entities": [[5, 11, "MEDICINE"], [12, 17, "DOSAGE"], [18, 21, "FREQUENCY"], [24, 30, "DURATION"]]}
-{"text": "Tab. Paracetamol 500mg SOS x 5 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
-{"text": "Tab. Dolo 650mg TDS x 3 days", "entities": [[5, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 19, "FREQUENCY"], [22, 28, "DURATION"]]}
-{"text": "Syp. Brufen 100mg TDS x 5 days", "entities": [[5, 11, "MEDICINE"], [12, 17, "DOSAGE"], [18, 21, "FREQUENCY"], [24, 30, "DURATION"]]}
-{"text": "Tab. Voveran 50mg BD x 5 days", "entities": [[5, 12, "MEDICINE"], [13, 17, "DOSAGE"], [18, 20, "FREQUENCY"], [23, 29, "DURATION"]]}
-{"text": "Tab. Mefenamic Acid 500mg TDS x 3 days", "entities": [[5, 19, "MEDICINE"], [20, 25, "DOSAGE"], [26, 29, "FREQUENCY"], [32, 38, "DURATION"]]}
-{"text": "Tab. Etoricoxib 90mg OD x 5 days", "entities": [[5, 15, "MEDICINE"], [16, 20, "DOSAGE"], [21, 23, "FREQUENCY"], [26, 32, "DURATION"]]}
-{"text": "Cap. Combiflam Plus BD x 4 days", "entities": [[5, 19, "MEDICINE"], [20, 22, "FREQUENCY"], [25, 31, "DURATION"]]}
-{"text": "Tab. Paracetamol 250mg TDS x 3 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
-{"text": "Tab. Dolo 650mg OD x 2 days", "entities": [[5, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 18, "FREQUENCY"], [21, 27, "DURATION"]]}
-{"text": "Syp. Calpol 125mg QID x 3 days", "entities": [[5, 11, "MEDICINE"], [12, 17, "DOSAGE"], [18, 21, "FREQUENCY"], [24, 30, "DURATION"]]}
-{"text": "Tab. Ibuprofen 600mg TDS x 5 days", "entities": [[5, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 24, "FREQUENCY"], [27, 33, "DURATION"]]}
-{"text": "Tab. Diclofenac Sodium 50mg TDS x 3 days", "entities": [[5, 22, "MEDICINE"], [23, 27, "DOSAGE"], [28, 31, "FREQUENCY"], [34, 40, "DURATION"]]}
-{"text": "Cap. Zerodol P BD x 5 days", "entities": [[5, 14, "MEDICINE"], [15, 17, "FREQUENCY"], [20, 26, "DURATION"]]}
-{"text": "Tab. Paracetamol 500mg BD x 7 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Tab. Aceclofenac 100mg OD x 5 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [28, 34, "DURATION"]]}
-{"text": "Tab. Ultracet BD x 4 days", "entities": [[5, 13, "MEDICINE"], [14, 16, "FREQUENCY"], [19, 25, "DURATION"]]}
-{"text": "Syp. Meftal-P 5ml TDS x 3 days", "entities": [[5, 13, "MEDICINE"], [14, 17, "DOSAGE"], [18, 21, "FREQUENCY"], [24, 30, "DURATION"]]}
-{"text": "Tab. Naproxen 500mg OD x 5 days", "entities": [[5, 13, "MEDICINE"], [14, 19, "DOSAGE"], [20, 22, "FREQUENCY"], [25, 31, "DURATION"]]}
-{"text": "Tab. Dolo 1000mg OD x 3 days", "entities": [[5, 9, "MEDICINE"], [10, 16, "DOSAGE"], [17, 19, "FREQUENCY"], [22, 28, "DURATION"]]}
-{"text": "Cap. Flexon MR BD x 4 days", "entities": [[5, 14, "MEDICINE"], [15, 17, "FREQUENCY"], [20, 26, "DURATION"]]}
-{"text": "Tab. Nimesulide 50mg TDS x 3 days", "entities": [[5, 15, "MEDICINE"], [16, 20, "DOSAGE"], [21, 24, "FREQUENCY"], [27, 33, "DURATION"]]}
-{"text": "Tab. Etodolac 400mg BD x 5 days", "entities": [[5, 13, "MEDICINE"], [14, 19, "DOSAGE"], [20, 22, "FREQUENCY"], [25, 31, "DURATION"]]}
-{"text": "Tab. Paracetamol 500mg TDS x 5 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 26, "FREQUENCY"], [29, 35, "DURATION"]]}
+{"text": "Pt advised Cap.Amox250mg(1-0-1)x1/52 for infection", "entities": [[15, 19, "MEDICINE"], [19, 24, "DOSAGE"], [25, 30, "FREQUENCY"]]}
+{"text": "Azithro 0.5g 1 OD (1 hr a.c) x 3 days only", "entities": [[0, 7, "MEDICINE"], [8, 12, "DOSAGE"], [15, 17, "FREQUENCY"], [29, 37, "DURATION"]]}
+{"text": "Start T.Cefpodoxime 200 b.i.d. x 5/7", "entities": [[8, 19, "MEDICINE"], [24, 30, "FREQUENCY"]]}
+{"text": "Oflox 200 1-0-1 pc x 5d", "entities": [[0, 5, "MEDICINE"], [10, 15, "FREQUENCY"], [19, 23, "DURATION"]]}
+{"text": "Amoxyclav-375mg t.i.d x 1wk", "entities": [[0, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 21, "FREQUENCY"], [22, 27, "DURATION"]]}
+{"text": "Rx T.Augmentin625 1-0-1 x 5 din", "entities": [[5, 14, "MEDICINE"], [18, 23, "FREQUENCY"], [24, 31, "DURATION"]]}
+{"text": "Cap. Amoxclav 375mg 1-1-1 x 7/7", "entities": [[5, 13, "MEDICINE"], [14, 19, "DOSAGE"], [20, 25, "FREQUENCY"]]}
+{"text": "Cipro 500mg goli 1 subah 1 sham x 5d", "entities": [[0, 5, "MEDICINE"], [6, 11, "DOSAGE"], [32, 36, "DURATION"]]}
+{"text": "T.Cefixime200 1-0-1 x 5 days", "entities": [[2, 10, "MEDICINE"], [14, 19, "FREQUENCY"], [20, 28, "DURATION"]]}
+{"text": "Azithromycin 500mg q.d. x 3/7", "entities": [[0, 12, "MEDICINE"], [13, 18, "DOSAGE"], [19, 23, "FREQUENCY"]]}
+{"text": "Amoxicillin 250 cap 1-1-1 x 1/52", "entities": [[0, 11, "MEDICINE"], [20, 25, "FREQUENCY"]]}
+{"text": "Cap. Doxy-100 1-0-0 x 7d", "entities": [[5, 9, "MEDICINE"], [14, 19, "FREQUENCY"], [20, 24, "DURATION"]]}
+{"text": "Metrogyl(Metronidazole)400 1-1-1 x 5d", "entities": [[0, 8, "MEDICINE"], [27, 32, "FREQUENCY"], [33, 37, "DURATION"]]}
+{"text": "Azithral 500 1-0-0 x 3 days", "entities": [[0, 8, "MEDICINE"], [13, 18, "FREQUENCY"], [19, 27, "DURATION"]]}
+{"text": "Amox 0.5g 1-1-1 x 5/7", "entities": [[0, 4, "MEDICINE"], [5, 9, "DOSAGE"], [10, 15, "FREQUENCY"]]}
+{"text": "T.Levo 500mg OD x 7d", "entities": [[2, 6, "MEDICINE"], [7, 12, "DOSAGE"], [13, 15, "FREQUENCY"], [16, 20, "DURATION"]]}
+{"text": "Cap.Clinda300 1-1-1 x 5 days", "entities": [[4, 10, "MEDICINE"], [14, 19, "FREQUENCY"], [20, 28, "DURATION"]]}
+{"text": "Cefpodoxime 200 b.i.d x 5d", "entities": [[0, 11, "MEDICINE"], [16, 21, "FREQUENCY"], [22, 26, "DURATION"]]}
+{"text": "Doxy 100mg cap q.a.m. x 1 wk", "entities": [[0, 4, "MEDICINE"], [5, 10, "DOSAGE"], [15, 21, "FREQUENCY"], [22, 28, "DURATION"]]}
+{"text": "Cefixime 200mg 1-0-1 x 5/7", "entities": [[0, 8, "MEDICINE"], [9, 14, "DOSAGE"], [15, 20, "FREQUENCY"]]}
+{"text": "Tab Oflox 200 bd x 5d", "entities": [[4, 9, "MEDICINE"], [14, 16, "FREQUENCY"], [17, 21, "DURATION"]]}
+{"text": "Ampicillin 500mg q.i.d x 1/52", "entities": [[0, 10, "MEDICINE"], [11, 16, "DOSAGE"], [17, 22, "FREQUENCY"]]}
+{"text": "Cephadex 500 1-1-1 x 7d", "entities": [[0, 8, "MEDICINE"], [13, 18, "FREQUENCY"], [19, 23, "DURATION"]]}
+{"text": "Cap.Amoxyclav500 1-0-1 x 1wk", "entities": [[4, 13, "MEDICINE"], [17, 22, "FREQUENCY"], [23, 28, "DURATION"]]}
+{"text": "Levo 500 cap 1-0-0 x 7/7", "entities": [[0, 4, "MEDICINE"], [13, 18, "FREQUENCY"]]}
+{"text": "Norflox 400 1-0-1 pc x 5d", "entities": [[0, 7, "MEDICINE"], [12, 17, "FREQUENCY"], [21, 25, "DURATION"]]}
+{"text": "Amoxyclav 625 1-0-1 x 7 days", "entities": [[0, 9, "MEDICINE"], [14, 19, "FREQUENCY"], [20, 28, "DURATION"]]}
+{"text": "T.Azee500 1-0-0 x 5/7", "entities": [[2, 6, "MEDICINE"], [10, 15, "FREQUENCY"]]}
+{"text": "Moxikind-CV 625mg 1-0-1 x 5d", "entities": [[0, 11, "MEDICINE"], [12, 17, "DOSAGE"], [18, 23, "FREQUENCY"], [24, 28, "DURATION"]]}
+{"text": "Cap Tetra 250mg 1-1-1-1 x 1/52", "entities": [[4, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 23, "FREQUENCY"]]}
+{"text": "Cipro 500 1-0-1 x 5/7", "entities": [[0, 5, "MEDICINE"], [10, 15, "FREQUENCY"]]}
+{"text": "Tab.Augmentin 625 1-0-1 x 5 days", "entities": [[4, 13, "MEDICINE"], [18, 23, "FREQUENCY"], [24, 32, "DURATION"]]}
+{"text": "Roxi 150 b.i.d x 5d", "entities": [[0, 4, "MEDICINE"], [9, 14, "FREQUENCY"], [15, 19, "DURATION"]]}
+{"text": "T.Cefadroxil 500mg 1-0-1 x 7/7", "entities": [[2, 12, "MEDICINE"], [13, 18, "DOSAGE"], [19, 24, "FREQUENCY"]]}
+{"text": "Cap Ampiclox 500 1-1-1 x 5d", "entities": [[4, 12, "MEDICINE"], [17, 22, "FREQUENCY"], [23, 27, "DURATION"]]}
+{"text": "Clari 500 1-0-1 x 1 wk", "entities": [[0, 5, "MEDICINE"], [10, 15, "FREQUENCY"], [16, 22, "DURATION"]]}
+{"text": "Cifran 500 1-0-1 x 5/7", "entities": [[0, 6, "MEDICINE"], [11, 16, "FREQUENCY"]]}
+{"text": "Linezolid 600 cap bd x 10 days", "entities": [[0, 9, "MEDICINE"], [18, 20, "FREQUENCY"], [21, 30, "DURATION"]]}
+{"text": "Cotrimoxazole 960 1-0-1 x 5d", "entities": [[0, 13, "MEDICINE"], [18, 23, "FREQUENCY"], [24, 28, "DURATION"]]}
+{"text": "Nitrofurantoin 100 1-1-1-1 x 1/52", "entities": [[0, 14, "MEDICINE"], [19, 26, "FREQUENCY"]]}
+{"text": "Cap.Rifampicin 450 1-0-0 x 1/12 (empty stomach)", "entities": [[4, 14, "MEDICINE"], [19, 24, "FREQUENCY"]]}
+{"text": "Gati 400 1-0-0 x 5d", "entities": [[0, 4, "MEDICINE"], [9, 14, "FREQUENCY"], [15, 19, "DURATION"]]}
+{"text": "T.Cefuroxime 0.5g 1-0-1 x 1 wk", "entities": [[2, 12, "MEDICINE"], [13, 17, "DOSAGE"], [18, 23, "FREQUENCY"], [24, 30, "DURATION"]]}
+{"text": "Amox 250 1-1-1 x 5/7", "entities": [[0, 4, "MEDICINE"], [9, 14, "FREQUENCY"]]}
+{"text": "Metrogyl 400 1-1-1 x 5d", "entities": [[0, 8, "MEDICINE"], [13, 18, "FREQUENCY"], [19, 23, "DURATION"]]}
+{"text": "Clarithro 500 b.i.d. x 7d", "entities": [[0, 9, "MEDICINE"], [14, 20, "FREQUENCY"], [21, 25, "DURATION"]]}
+{"text": "Azithral 250 1-0-0 x 5/7", "entities": [[0, 8, "MEDICINE"], [13, 18, "FREQUENCY"]]}
+{"text": "T.Augmentin375 1-1-1 x 1 wk", "entities": [[2, 11, "MEDICINE"], [15, 20, "FREQUENCY"], [21, 27, "DURATION"]]}
+{"text": "Fluclox 500 cap q.i.d. x 7d", "entities": [[0, 7, "MEDICINE"], [16, 22, "FREQUENCY"], [23, 27, "DURATION"]]}
+{"text": "Ciplox-500 1-0-1 x 5/7", "entities": [[0, 10, "MEDICINE"], [11, 16, "FREQUENCY"]]}
+{"text": "Zifi 200 1-0-1 x 5d", "entities": [[0, 4, "MEDICINE"], [9, 14, "FREQUENCY"], [15, 19, "DURATION"]]}
+{"text": "Cap Doxy-100 1-0-1 x 1/52", "entities": [[4, 8, "MEDICINE"], [13, 18, "FREQUENCY"]]}
+{"text": "T.Metrogyl 400 1-1-1 x 7d", "entities": [[2, 10, "MEDICINE"], [15, 20, "FREQUENCY"], [21, 25, "DURATION"]]}
+{"text": "Azee-250 1-0-0 x 3/7", "entities": [[0, 4, "MEDICINE"], [9, 14, "FREQUENCY"]]}
+{"text": "Mox 500 1-1-1 x 5d", "entities": [[0, 3, "MEDICINE"], [8, 13, "FREQUENCY"], [14, 18, "DURATION"]]}
+{"text": "TaximO-200 1-0-1 x 5/7", "entities": [[0, 6, "MEDICINE"], [11, 16, "FREQUENCY"]]}
+{"text": "Norflox-400 1-0-1 x 5d", "entities": [[0, 7, "MEDICINE"], [12, 17, "FREQUENCY"], [18, 22, "DURATION"]]}
+{"text": "Advised pt to start T. Losartan 50mg PO OD x 1 month for BP control", "entities": [[23, 31, "MEDICINE"], [32, 36, "DOSAGE"], [37, 42, "FREQUENCY"], [43, 52, "DURATION"]]}
+{"text": "Continue ongoing Rx: Sitagliptin 100 mg 1-0-0 (morning) 30 days", "entities": [[21, 32, "MEDICINE"], [33, 39, "DOSAGE"], [40, 45, "FREQUENCY"], [55, 63, "DURATION"]]}
+{"text": "Mtfrmn 500mg 1 goli subah aur 1 sham x 30 din", "entities": [[0, 6, "MEDICINE"], [7, 12, "DOSAGE"], [37, 45, "DURATION"]]}
+{"text": "Rx Tab Metfromin 500 1-0-0 x 1/12", "entities": [[7, 20, "MEDICINE"], [21, 26, "FREQUENCY"]]}
+{"text": "Tab. Metformin 850mg (1-0-1) for 1 mo", "entities": [[5, 14, "MEDICINE"], [15, 20, "DOSAGE"], [22, 27, "FREQUENCY"], [33, 37, "DURATION"]]}
+{"text": "Metformin 1g BD 30days pc", "entities": [[0, 9, "MEDICINE"], [10, 12, "DOSAGE"], [13, 15, "FREQUENCY"], [16, 22, "DURATION"]]}
+{"text": "Cap. Metformin 500 mg 1-0-1 x 2 months", "entities": [[5, 14, "MEDICINE"], [15, 21, "DOSAGE"], [22, 27, "FREQUENCY"], [28, 38, "DURATION"]]}
+{"text": "Tab Glycomet (Metformin) 750mg OD x 30 d", "entities": [[4, 12, "MEDICINE"], [25, 30, "DOSAGE"], [31, 33, "FREQUENCY"], [34, 40, "DURATION"]]}
+{"text": "Rx: Mtf 500mg OD 15 days only", "entities": [[4, 7, "MEDICINE"], [8, 13, "DOSAGE"], [14, 16, "FREQUENCY"], [17, 24, "DURATION"]]}
+{"text": "Metformin 850 mg tab 1 po qd x 30 days", "entities": [[0, 9, "MEDICINE"], [10, 16, "DOSAGE"], [26, 28, "FREQUENCY"], [29, 38, "DURATION"]]}
+{"text": "Amlo 5mg 0-0-1 30 days", "entities": [[0, 4, "MEDICINE"], [5, 8, "DOSAGE"], [9, 14, "FREQUENCY"], [14, 22, "DURATION"]]}
+{"text": "Start T. Atorva 10mg (Atorvastatin) 1-0-0 x 1mo", "entities": [[9, 15, "MEDICINE"], [16, 20, "DOSAGE"], [36, 41, "FREQUENCY"], [42, 47, "DURATION"]]}
+{"text": "Tab Metformin 1000mg 1 od x 30d", "entities": [[4, 13, "MEDICINE"], [14, 20, "DOSAGE"], [23, 25, "FREQUENCY"], [26, 31, "DURATION"]]}
+{"text": "Tab Metformin 500mg TDS (1-1-1) for 1 month", "entities": [[4, 13, "MEDICINE"], [14, 19, "DOSAGE"], [20, 23, "FREQUENCY"], [36, 43, "DURATION"]]}
+{"text": "Rx Amlodipine 5mg 1 OD x 30days", "entities": [[3, 13, "MEDICINE"], [14, 17, "DOSAGE"], [20, 22, "FREQUENCY"], [23, 31, "DURATION"]]}
+{"text": "Tab Amlodac 10 (Amlodipine 10mg) 1-0-0 x 30d", "entities": [[4, 11, "MEDICINE"], [27, 31, "DOSAGE"], [33, 38, "FREQUENCY"], [39, 44, "DURATION"]]}
+{"text": "amlo 5 mg tab 1-0-0 for 60 days", "entities": [[0, 4, "MEDICINE"], [5, 9, "DOSAGE"], [14, 19, "FREQUENCY"], [24, 31, "DURATION"]]}
+{"text": "T. Amlodipine 2.5mg half tab OD x 30 d", "entities": [[3, 13, "MEDICINE"], [14, 19, "DOSAGE"], [29, 31, "FREQUENCY"], [32, 38, "DURATION"]]}
+{"text": "Amlodipine 5 mg PO BID x 30 days", "entities": [[0, 10, "MEDICINE"], [11, 15, "DOSAGE"], [16, 22, "FREQUENCY"], [23, 32, "DURATION"]]}
+{"text": "Tb Amlodipine 10mg od 2/12", "entities": [[3, 13, "MEDICINE"], [14, 18, "DOSAGE"], [19, 21, "FREQUENCY"]]}
+{"text": "C. Calcium 500mg 1-0-0 x 30D", "entities": [[3, 10, "MEDICINE"], [11, 16, "DOSAGE"], [17, 22, "FREQUENCY"], [23, 28, "DURATION"]]}
+{"text": "Tab Glimepiride 2 mg 1-0-1 30 din tak", "entities": [[4, 15, "MEDICINE"], [16, 20, "DOSAGE"], [21, 26, "FREQUENCY"], [26, 33, "DURATION"]]}
+{"text": "Amlodipine 10mg 1 goli rozana x 1 mahina", "entities": [[0, 10, "MEDICINE"], [11, 15, "DOSAGE"], [30, 40, "DURATION"]]}
+{"text": "Amlo 5mg tab bd x 2 months", "entities": [[0, 4, "MEDICINE"], [5, 8, "DOSAGE"], [13, 15, "FREQUENCY"], [16, 26, "DURATION"]]}
+{"text": "Cap Vit D3 60k IU 1/wk (every Sunday) x 8 wks", "entities": [[4, 10, "MEDICINE"], [11, 17, "DOSAGE"], [38, 45, "DURATION"]]}
+{"text": "Cholecalciferol 60000 IU cap once weekly for 6 weeks", "entities": [[0, 15, "MEDICINE"], [16, 24, "DOSAGE"], [45, 52, "DURATION"]]}
+{"text": "Tab Vit-D 1000 IU 1 OD x 30 days", "entities": [[4, 9, "MEDICINE"], [10, 17, "DOSAGE"], [20, 22, "FREQUENCY"], [23, 32, "DURATION"]]}
+{"text": "Vit D 2000 IU tab 1-0-0 x 1 mo", "entities": [[0, 5, "MEDICINE"], [6, 13, "DOSAGE"], [18, 23, "FREQUENCY"], [24, 30, "DURATION"]]}
+{"text": "Vit D3 60K sachet 1 in milk weekly x 4 wks", "entities": [[0, 6, "MEDICINE"], [35, 42, "DURATION"]]}
+{"text": "T. Vitamin D 1000 IU OD x 2/12", "entities": [[3, 12, "MEDICINE"], [13, 20, "DOSAGE"], [21, 23, "FREQUENCY"]]}
+{"text": "Vit-D 2000 units OD 60 days", "entities": [[0, 5, "MEDICINE"], [6, 16, "DOSAGE"], [17, 19, "FREQUENCY"], [20, 27, "DURATION"]]}
+{"text": "C. Vitamin D3 60,000 IU 1 per week x 12 weeks", "entities": [[3, 13, "MEDICINE"], [14, 23, "DOSAGE"], [35, 45, "DURATION"]]}
+{"text": "Vitamin D 1000 IU 1 tab od for 90 days", "entities": [[0, 9, "MEDICINE"], [10, 17, "DOSAGE"], [24, 26, "FREQUENCY"], [31, 38, "DURATION"]]}
+{"text": "Cap Vit D 60K IU once a wk x 10 weeks", "entities": [[4, 9, "MEDICINE"], [10, 16, "DOSAGE"], [27, 37, "DURATION"]]}
+{"text": "Mtf 500mg bd 3 months", "entities": [[0, 3, "MEDICINE"], [4, 9, "DOSAGE"], [10, 12, "FREQUENCY"], [13, 21, "DURATION"]]}
+{"text": "Tab Metformin 850mg 1-0-1 x 2/12", "entities": [[4, 13, "MEDICINE"], [14, 19, "DOSAGE"], [20, 25, "FREQUENCY"]]}
+{"text": "Metformin 1000mg bd 60d", "entities": [[0, 9, "MEDICINE"], [10, 16, "DOSAGE"], [17, 19, "FREQUENCY"], [20, 23, "DURATION"]]}
+{"text": "Tab Metformin 500 OD x 3 months", "entities": [[4, 13, "MEDICINE"], [18, 20, "FREQUENCY"], [21, 31, "DURATION"]]}
+{"text": "Tablet Metformin 500 mg twice a day for thirty days", "entities": [[7, 16, "MEDICINE"], [17, 23, "DOSAGE"], [24, 35, "FREQUENCY"]]}
+{"text": "Cap Vitamin D3 60000IU - 1/week - 8 weeks", "entities": [[4, 14, "MEDICINE"], [15, 22, "DOSAGE"], [33, 41, "DURATION"]]}
+{"text": "T Amlodipine 5 mg 1 od x 90d", "entities": [[2, 12, "MEDICINE"], [13, 17, "DOSAGE"], [20, 22, "FREQUENCY"], [23, 28, "DURATION"]]}
+{"text": "Amlodipine 10 mg 1-0-0 x 3 mo", "entities": [[0, 10, "MEDICINE"], [11, 16, "DOSAGE"], [17, 22, "FREQUENCY"], [23, 29, "DURATION"]]}
+{"text": "Amlo 2.5mg tab OD for 90 days", "entities": [[0, 4, "MEDICINE"], [5, 10, "DOSAGE"], [15, 17, "FREQUENCY"], [22, 29, "DURATION"]]}
+{"text": "Tb Amlodipine 5mg bd x 90d", "entities": [[3, 13, "MEDICINE"], [14, 17, "DOSAGE"], [18, 20, "FREQUENCY"], [21, 26, "DURATION"]]}
+{"text": "VitD3 60k 1cap/week x 3 weeks", "entities": [[0, 5, "MEDICINE"], [20, 29, "DURATION"]]}
+{"text": "Vit D 60000 IU 1 goli hafte me ek baar x 5 wks", "entities": [[0, 5, "MEDICINE"], [6, 14, "DOSAGE"], [39, 46, "DURATION"]]}
+{"text": "Tab. Vit D 1000 IU rozana 90 din", "entities": [[5, 10, "MEDICINE"], [11, 18, "DOSAGE"], [26, 32, "DURATION"]]}
+{"text": "Vitamin D 2000 units OD x 90D", "entities": [[0, 9, "MEDICINE"], [10, 20, "DOSAGE"], [21, 23, "FREQUENCY"], [24, 29, "DURATION"]]}
+{"text": "Metformin 500 PO BID x 45 days", "entities": [[0, 9, "MEDICINE"], [14, 20, "FREQUENCY"], [21, 30, "DURATION"]]}
+{"text": "Advised Telmisartan 40 mg 1 OD x 30 days (khali pet)", "entities": [[8, 19, "MEDICINE"], [20, 25, "DOSAGE"], [28, 30, "FREQUENCY"], [31, 40, "DURATION"]]}
+{"text": "Cap Pantocid 40 (Pantoprazole) 1-0-0 ac x 15d", "entities": [[4, 12, "MEDICINE"], [31, 36, "FREQUENCY"], [40, 45, "DURATION"]]}
+{"text": "Tablet Metoprolol 25 mg 1-0-1 x 1 mo", "entities": [[7, 17, "MEDICINE"], [18, 23, "DOSAGE"], [24, 29, "FREQUENCY"], [30, 36, "DURATION"]]}
+{"text": "Rosuvastatin 20mg 0-0-1 hs x 30 days", "entities": [[0, 12, "MEDICINE"], [13, 17, "DOSAGE"], [18, 23, "FREQUENCY"], [27, 36, "DURATION"]]}
+{"text": "Metformin 850mg 1-0-1 x 1.5 months", "entities": [[0, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 21, "FREQUENCY"], [22, 34, "DURATION"]]}
+{"text": "Amlo 5mg 1 OD x 45d", "entities": [[0, 4, "MEDICINE"], [5, 8, "DOSAGE"], [11, 13, "FREQUENCY"], [14, 19, "DURATION"]]}
+{"text": "Tab Amlodipine 10 mg 1-0-0 45 days", "entities": [[4, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 26, "FREQUENCY"], [26, 34, "DURATION"]]}
+{"text": "Vit D3 60k cap weekly x 7wks", "entities": [[0, 6, "MEDICINE"], [22, 28, "DURATION"]]}
+{"text": "Mtf 500mg bd x 20d", "entities": [[0, 3, "MEDICINE"], [4, 9, "DOSAGE"], [10, 12, "FREQUENCY"], [13, 18, "DURATION"]]}
+{"text": "Tab Metformin 1g OD x 20 days", "entities": [[4, 13, "MEDICINE"], [14, 16, "DOSAGE"], [17, 19, "FREQUENCY"], [20, 29, "DURATION"]]}
+{"text": "Amlodipine 5mg 1 od x 20d", "entities": [[0, 10, "MEDICINE"], [11, 14, "DOSAGE"], [17, 19, "FREQUENCY"], [20, 25, "DURATION"]]}
+{"text": "Tab Amlodipine 10mg OD 20 days", "entities": [[4, 14, "MEDICINE"], [15, 19, "DOSAGE"], [20, 22, "FREQUENCY"], [23, 30, "DURATION"]]}
+{"text": "Vit D 1000 IU 1 od x 20d", "entities": [[0, 5, "MEDICINE"], [6, 13, "DOSAGE"], [16, 18, "FREQUENCY"], [19, 24, "DURATION"]]}
+{"text": "Metformin 850mg bd 3 months", "entities": [[0, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 18, "FREQUENCY"], [19, 27, "DURATION"]]}
+{"text": "Metformin 1000mg 1 od x 90d", "entities": [[0, 9, "MEDICINE"], [10, 16, "DOSAGE"], [19, 21, "FREQUENCY"], [22, 27, "DURATION"]]}
+{"text": "Amlo 5mg OD x 4 months", "entities": [[0, 4, "MEDICINE"], [5, 8, "DOSAGE"], [9, 11, "FREQUENCY"], [12, 22, "DURATION"]]}
+{"text": "Amlodipine 10mg tab OD x 120 days", "entities": [[0, 10, "MEDICINE"], [11, 15, "DOSAGE"], [20, 22, "FREQUENCY"], [23, 33, "DURATION"]]}
+{"text": "Cap VitD3 60K IU 1/wk x 2 months", "entities": [[4, 9, "MEDICINE"], [10, 16, "DOSAGE"], [22, 32, "DURATION"]]}
+{"text": "Metformin 500mg OD 60d", "entities": [[0, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 18, "FREQUENCY"], [19, 22, "DURATION"]]}
+{"text": "Tab Metformin 500mg 1-0-1 x 120 days", "entities": [[4, 13, "MEDICINE"], [14, 19, "DOSAGE"], [20, 25, "FREQUENCY"], [26, 36, "DURATION"]]}
+{"text": "Tb.Amlodipine2.5mg ODx30d", "entities": [[3, 13, "MEDICINE"], [13, 18, "DOSAGE"], [23, 25, "DURATION"]]}
+{"text": "Amlodipine 5mg 1-0-0 x 120 days", "entities": [[0, 10, "MEDICINE"], [11, 14, "DOSAGE"], [15, 20, "FREQUENCY"], [21, 31, "DURATION"]]}
+{"text": "Vit D 2000 IU 1 od x 2/12", "entities": [[0, 5, "MEDICINE"], [6, 13, "DOSAGE"], [16, 18, "FREQUENCY"]]}
+{"text": "Tab.Losartan50mg1ODx30days", "entities": [[4, 12, "MEDICINE"], [12, 16, "DOSAGE"], [21, 26, "DURATION"]]}
+{"text": "sitagliptin100mg 1po qam 1mo", "entities": [[0, 11, "MEDICINE"], [11, 16, "DOSAGE"], [21, 24, "FREQUENCY"], [25, 28, "DURATION"]]}
+{"text": "Rx:Metformin500mg 1-0-1x30D", "entities": [[3, 12, "MEDICINE"], [12, 17, "DOSAGE"], [23, 27, "DURATION"]]}
+{"text": "Metformin 500mg od 1 month", "entities": [[0, 9, "MEDICINE"], [10, 15, "DOSAGE"], [16, 18, "FREQUENCY"], [19, 26, "DURATION"]]}
+{"text": "Tb.Mtfrmn850mg BDx30d", "entities": [[3, 9, "MEDICINE"], [9, 14, "DOSAGE"], [19, 21, "DURATION"]]}
+{"text": "Tab.Metformin1000mg1-0-1 x 1mo", "entities": [[4, 13, "MEDICINE"], [13, 19, "DOSAGE"], [25, 30, "DURATION"]]}
+{"text": "Mtf500mgBDx60d", "entities": [[0, 3, "MEDICINE"], [12, 14, "DURATION"]]}
+{"text": "Metformin750mg 1-0-0x30d", "entities": [[0, 9, "MEDICINE"], [9, 14, "DOSAGE"], [20, 24, "DURATION"]]}
+{"text": "Tab.Metformin500mgODx15d", "entities": [[4, 13, "MEDICINE"], [22, 24, "DURATION"]]}
+{"text": "T.Metformin850mg ODx30days", "entities": [[2, 11, "MEDICINE"], [11, 16, "DOSAGE"], [21, 26, "DURATION"]]}
+{"text": "Amlodipine5mg1ODx30d", "entities": [[0, 10, "MEDICINE"], [10, 13, "DOSAGE"], [18, 20, "DURATION"]]}
+{"text": "Tb.Atorvastatin10mg 0-0-1x30D", "entities": [[3, 15, "MEDICINE"], [15, 19, "DOSAGE"], [25, 29, "DURATION"]]}
+{"text": "Metformin1000mgODx30days", "entities": [[0, 9, "MEDICINE"], [19, 24, "DURATION"]]}
+{"text": "TabMetformin500mgTDSx30d", "entities": [[3, 22, "MEDICINE"], [22, 24, "DURATION"]]}
+{"text": "Amlodipine5mgPOODx30days", "entities": [[0, 10, "MEDICINE"], [19, 24, "DURATION"]]}
+{"text": "T.Amlodipine10mg1ODx30d", "entities": [[2, 12, "MEDICINE"], [12, 16, "DOSAGE"], [21, 23, "DURATION"]]}
+{"text": "Amlo5mgODx60days", "entities": [[0, 4, "MEDICINE"], [11, 16, "DURATION"]]}
+{"text": "TbAmlodipine2.5mg1ODx30d", "entities": [[2, 12, "MEDICINE"], [12, 17, "DOSAGE"], [22, 24, "DURATION"]]}
+{"text": "Amlodipine5mg1-0-1x30d", "entities": [[0, 10, "MEDICINE"], [10, 13, "DOSAGE"], [18, 22, "DURATION"]]}
+{"text": "Amlo10mgODx60D", "entities": [[0, 4, "MEDICINE"], [12, 14, "DURATION"]]}
+{"text": "Cap.Calcium500mgODx30d", "entities": [[4, 11, "MEDICINE"], [20, 22, "DURATION"]]}
+{"text": "Glimepiride2mgBDx30d", "entities": [[0, 11, "MEDICINE"], [18, 20, "DURATION"]]}
+{"text": "TabAmlodipine10mgODx30days", "entities": [[3, 21, "MEDICINE"], [21, 26, "DURATION"]]}
+{"text": "Amlo5mgBDx60days", "entities": [[0, 4, "MEDICINE"], [11, 16, "DURATION"]]}
+{"text": "CapVitD60kIU weeklyx8wks", "entities": [[3, 7, "MEDICINE"], [7, 12, "DOSAGE"]]}
+{"text": "VitD3 60kIU 1/wkx6wks", "entities": [[0, 5, "MEDICINE"], [6, 11, "DOSAGE"]]}
+{"text": "Tb.VitD1000IU1ODx30d", "entities": [[3, 7, "MEDICINE"], [7, 13, "DOSAGE"], [18, 20, "DURATION"]]}
+{"text": "VitD2000IU ODx30D", "entities": [[0, 4, "MEDICINE"], [4, 10, "DOSAGE"], [15, 17, "DURATION"]]}
+{"text": "Cap.VitD60000IU 1/wkx4wks", "entities": [[4, 8, "MEDICINE"], [8, 15, "DOSAGE"]]}
+{"text": "VitD1000IUODx60days", "entities": [[0, 4, "MEDICINE"], [14, 19, "DURATION"]]}
+{"text": "TabVitD2000IU1ODx60d", "entities": [[3, 7, "MEDICINE"], [7, 13, "DOSAGE"], [18, 20, "DURATION"]]}
+{"text": "CapVitD60kIU weeklyx12wks", "entities": [[3, 7, "MEDICINE"], [7, 12, "DOSAGE"], [21, 25, "DURATION"]]}
+{"text": "Tab.VitD1000IUODx90d", "entities": [[4, 8, "MEDICINE"], [18, 20, "DURATION"]]}
+{"text": "VitD3 60000IU 1/wkx10wks", "entities": [[0, 5, "MEDICINE"], [6, 13, "DOSAGE"], [20, 24, "DURATION"]]}
+{"text": "Metformin500mgBDx90d", "entities": [[0, 9, "MEDICINE"], [18, 20, "DURATION"]]}
+{"text": "Tab.Metformin850mgBDx60d", "entities": [[4, 13, "MEDICINE"], [22, 24, "DURATION"]]}
+{"text": "Mtfrmn1000mgBDx60D", "entities": [[0, 6, "MEDICINE"], [16, 18, "DURATION"]]}
+{"text": "Tb.Metformin500mgODx90days", "entities": [[3, 12, "MEDICINE"], [21, 26, "DURATION"]]}
+{"text": "Tab.Metformin500mg1-0-1x30d", "entities": [[4, 13, "MEDICINE"], [13, 18, "DOSAGE"], [23, 27, "DURATION"]]}
+{"text": "Cap.VitD3 60000IU 1/wkx8wks", "entities": [[4, 9, "MEDICINE"], [10, 17, "DOSAGE"]]}
+{"text": "Amlodipine5mgODx90d", "entities": [[0, 10, "MEDICINE"], [17, 19, "DURATION"]]}
+{"text": "Amlo10mgODx90days", "entities": [[0, 4, "MEDICINE"], [12, 17, "DURATION"]]}
+{"text": "T.Amlodipine2.5mgODx90d", "entities": [[2, 12, "MEDICINE"], [21, 23, "DURATION"]]}
+{"text": "TbAmlodipine5mgBDx90d", "entities": [[2, 19, "MEDICINE"], [19, 21, "DURATION"]]}
+{"text": "VitD60kIU weeklyx3wks", "entities": [[0, 4, "MEDICINE"], [4, 9, "DOSAGE"]]}
+{"text": "Cap.VitD60000IU 1/wkx5wks", "entities": [[4, 8, "MEDICINE"], [8, 15, "DOSAGE"]]}
+{"text": "VitD1000IU ODx90days", "entities": [[0, 4, "MEDICINE"], [4, 10, "DOSAGE"], [15, 20, "DURATION"]]}
+{"text": "TabVitD2000IU ODx90d", "entities": [[3, 7, "MEDICINE"], [7, 13, "DOSAGE"], [18, 20, "DURATION"]]}
+{"text": "Metformin500mgBDx45d", "entities": [[0, 9, "MEDICINE"], [18, 20, "DURATION"]]}
+{"text": "Telmisartan40mgODx30days", "entities": [[0, 11, "MEDICINE"], [19, 24, "DURATION"]]}
+{"text": "Cap.Pantoprazole40mgODx15d", "entities": [[4, 16, "MEDICINE"], [24, 26, "DURATION"]]}
+{"text": "Tab.Metoprolol25mgBDx30d", "entities": [[4, 14, "MEDICINE"], [22, 24, "DURATION"]]}
+{"text": "Rosuvastatin20mgODx30d", "entities": [[0, 12, "MEDICINE"], [20, 22, "DURATION"]]}
+{"text": "Metformin850mgBDx45days", "entities": [[0, 9, "MEDICINE"], [18, 23, "DURATION"]]}
+{"text": "Amlodipine5mgODx45d", "entities": [[0, 10, "MEDICINE"], [17, 19, "DURATION"]]}
+{"text": "Amlo10mgODx45days", "entities": [[0, 4, "MEDICINE"], [12, 17, "DURATION"]]}
+{"text": "Rx Tab.Cetirizine10mg 0-0-1 x 5d", "entities": [[7, 17, "MEDICINE"], [17, 21, "DOSAGE"], [22, 27, "FREQUENCY"], [28, 32, "DURATION"]]}
+{"text": "syp. Ascoril 10ml tds x5/7", "entities": [[5, 12, "MEDICINE"], [13, 17, "DOSAGE"], [18, 21, "FREQUENCY"]]}
+{"text": "T.levocetirizine 5mg 1 raat ko 5 din", "entities": [[2, 16, "MEDICINE"], [17, 20, "DOSAGE"], [31, 36, "DURATION"]]}
+{"text": "Syp Benadryl 2 tsf tds 4 days", "entities": [[4, 12, "MEDICINE"], [19, 22, "FREQUENCY"], [23, 29, "DURATION"]]}
+{"text": "Tab Cetirizine 10 mg 1-0-0 5d", "entities": [[4, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 26, "FREQUENCY"], [26, 29, "DURATION"]]}
+{"text": "Syr Ascoril 10 ml 1-1-1 x 5days", "entities": [[4, 11, "MEDICINE"], [12, 17, "DOSAGE"], [18, 23, "FREQUENCY"], [24, 31, "DURATION"]]}
+{"text": "Montair-LC tab 0-0-1 1 wk", "entities": [[0, 10, "MEDICINE"], [15, 20, "FREQUENCY"], [20, 25, "DURATION"]]}
+{"text": "Syp Alex 5ml (1 tsp) tds x 5d", "entities": [[4, 8, "MEDICINE"], [9, 12, "DOSAGE"], [21, 24, "FREQUENCY"], [25, 29, "DURATION"]]}
+{"text": "Tb.Allegra120mg od x 5/7", "entities": [[3, 10, "MEDICINE"], [10, 15, "DOSAGE"], [16, 18, "FREQUENCY"]]}
+{"text": "Grilinctus Syp 10ml 3 times a day x 5 days", "entities": [[0, 10, "MEDICINE"], [15, 19, "DOSAGE"], [20, 33, "FREQUENCY"], [34, 42, "DURATION"]]}
+{"text": "Tab Chlorpheniramine 4mg 1-0-1 x 3d", "entities": [[4, 20, "MEDICINE"], [21, 24, "DOSAGE"], [25, 30, "FREQUENCY"], [31, 35, "DURATION"]]}
+{"text": "Syrup Benadryl 10ml TDS 4 din", "entities": [[6, 14, "MEDICINE"], [15, 19, "DOSAGE"], [20, 23, "FREQUENCY"], [24, 29, "DURATION"]]}
+{"text": "Tab. Alegra 120 mg ODx5 days", "entities": [[5, 11, "MEDICINE"], [12, 18, "DOSAGE"]]}
+{"text": "syp.Corex 10ml tds x4d", "entities": [[4, 9, "MEDICINE"], [10, 14, "DOSAGE"], [15, 18, "FREQUENCY"], [19, 22, "DURATION"]]}
+{"text": "Tab. Fexofenadine180mg 1-0-0 x 5d", "entities": [[5, 17, "MEDICINE"], [17, 22, "DOSAGE"], [23, 28, "FREQUENCY"], [29, 33, "DURATION"]]}
+{"text": "Syp Chericof 10 ml 1-1-1 for 5 days", "entities": [[4, 12, "MEDICINE"], [13, 18, "DOSAGE"], [19, 24, "FREQUENCY"], [29, 35, "DURATION"]]}
+{"text": "Montek LC tab 1 rozana raat me 10 days", "entities": [[0, 9, "MEDICINE"], [31, 38, "DURATION"]]}
+{"text": "Syp Tussin 5ml tds x5/7", "entities": [[4, 10, "MEDICINE"], [11, 14, "DOSAGE"], [15, 18, "FREQUENCY"]]}
+{"text": "Tab Cetzine 10mg 0-0-1 x 1 week", "entities": [[4, 11, "MEDICINE"], [12, 16, "DOSAGE"], [17, 22, "FREQUENCY"], [23, 31, "DURATION"]]}
+{"text": "Syp.Phensedyl 10ml TDS x 4 days", "entities": [[4, 13, "MEDICINE"], [14, 18, "DOSAGE"], [19, 22, "FREQUENCY"], [23, 31, "DURATION"]]}
+{"text": "T. Avil 25mg 1-0-1 x 3 days", "entities": [[3, 7, "MEDICINE"], [8, 12, "DOSAGE"], [13, 18, "FREQUENCY"], [19, 27, "DURATION"]]}
+{"text": "Syr.Benadryl DR 10 ml tid x 5 days", "entities": [[4, 15, "MEDICINE"], [16, 21, "DOSAGE"], [22, 25, "FREQUENCY"], [26, 34, "DURATION"]]}
+{"text": "levocetirizine 5mg OD hs 5d", "entities": [[0, 14, "MEDICINE"], [15, 18, "DOSAGE"], [19, 21, "FREQUENCY"], [25, 27, "DURATION"]]}
+{"text": "Montair LC 10mg tab 0-0-1 x 7D", "entities": [[0, 10, "MEDICINE"], [11, 15, "DOSAGE"], [20, 25, "FREQUENCY"], [26, 30, "DURATION"]]}
+{"text": "Chlorpheniramine 4mg bd 3days", "entities": [[0, 16, "MEDICINE"], [17, 20, "DOSAGE"], [21, 23, "FREQUENCY"], [24, 29, "DURATION"]]}
+{"text": "Zyrtec 10mg tab 1 OD x 5d", "entities": [[0, 6, "MEDICINE"], [7, 11, "DOSAGE"], [18, 20, "FREQUENCY"], [21, 25, "DURATION"]]}
+{"text": "Syp Sinarest 10 ml tds x 5days", "entities": [[4, 12, "MEDICINE"], [13, 18, "DOSAGE"], [19, 22, "FREQUENCY"], [23, 30, "DURATION"]]}
+{"text": "Tab Desloratadine 5mg 1-0-0 x 5 days", "entities": [[4, 17, "MEDICINE"], [18, 21, "DOSAGE"], [22, 27, "FREQUENCY"], [28, 36, "DURATION"]]}
+{"text": "syp Koflet 10ml 1-1-1 5 din", "entities": [[4, 10, "MEDICINE"], [11, 15, "DOSAGE"], [16, 21, "FREQUENCY"], [21, 27, "DURATION"]]}
+{"text": "Hydroxyzine 25mg bd x 5/7", "entities": [[0, 11, "MEDICINE"], [12, 16, "DOSAGE"], [17, 19, "FREQUENCY"]]}
+{"text": "Syp Solvin 5ml tds x5d", "entities": [[4, 10, "MEDICINE"], [11, 14, "DOSAGE"], [15, 18, "FREQUENCY"], [19, 22, "DURATION"]]}
+{"text": "Tab Rhinocap 1 OD x 5 days", "entities": [[4, 12, "MEDICINE"], [15, 17, "FREQUENCY"], [18, 26, "DURATION"]]}
+{"text": "Syp.Cofsils 10ml tds x4d", "entities": [[4, 11, "MEDICINE"], [12, 16, "DOSAGE"], [17, 20, "FREQUENCY"], [21, 24, "DURATION"]]}
+{"text": "Fexofenadine 180 mg tab OD x 5 days", "entities": [[0, 12, "MEDICINE"], [13, 19, "DOSAGE"], [24, 26, "FREQUENCY"], [27, 35, "DURATION"]]}
+{"text": "Cap Montelukast 10mg 0-0-1 x 14d", "entities": [[4, 15, "MEDICINE"], [16, 20, "DOSAGE"], [21, 26, "FREQUENCY"], [27, 32, "DURATION"]]}
+{"text": "Tb Zyrtec 10 mg ODx5days", "entities": [[3, 9, "MEDICINE"], [10, 15, "DOSAGE"]]}
+{"text": "Tab Montelukast 10mg 1 hs x 14 days", "entities": [[4, 15, "MEDICINE"], [16, 20, "DOSAGE"], [23, 25, "FREQUENCY"], [26, 35, "DURATION"]]}
+{"text": "syp Zedex 10ml tds x 5d", "entities": [[4, 9, "MEDICINE"], [10, 14, "DOSAGE"], [15, 18, "FREQUENCY"], [19, 23, "DURATION"]]}
+{"text": "Tab Cheston Cold 1-0-1 x 5/7", "entities": [[4, 16, "MEDICINE"], [17, 22, "FREQUENCY"]]}
+{"text": "Syr Torex 10ml TDS 5days", "entities": [[4, 9, "MEDICINE"], [10, 14, "DOSAGE"], [15, 18, "FREQUENCY"], [19, 24, "DURATION"]]}
+{"text": "Wikoryl tab 1-0-1 x 5 days", "entities": [[0, 7, "MEDICINE"], [12, 17, "FREQUENCY"], [18, 26, "DURATION"]]}
+{"text": "Syp. Ascoril LS 10ml 1-1-1 x 5d", "entities": [[5, 15, "MEDICINE"], [16, 20, "DOSAGE"], [21, 26, "FREQUENCY"], [27, 31, "DURATION"]]}
+{"text": "Tab Levolin 8mg bd x5days", "entities": [[4, 11, "MEDICINE"], [12, 15, "DOSAGE"], [16, 18, "FREQUENCY"], [19, 25, "DURATION"]]}
+{"text": "Syp Bro-Zedex 5ml tds 5 din", "entities": [[4, 13, "MEDICINE"], [14, 17, "DOSAGE"], [18, 21, "FREQUENCY"], [22, 27, "DURATION"]]}
+{"text": "Tab Cetirizine 5mg 0-0-1 3 days", "entities": [[4, 14, "MEDICINE"], [15, 18, "DOSAGE"], [19, 24, "FREQUENCY"], [24, 31, "DURATION"]]}
+{"text": "Syp Cofdex 10 ml tds x4 days", "entities": [[4, 10, "MEDICINE"], [11, 16, "DOSAGE"], [17, 20, "FREQUENCY"], [21, 28, "DURATION"]]}
+{"text": "Tab Actifed 1-0-1 x 5d", "entities": [[4, 11, "MEDICINE"], [12, 17, "FREQUENCY"], [18, 22, "DURATION"]]}
+{"text": "syp Sinarest AF 10ml tds x 5days", "entities": [[4, 15, "MEDICINE"], [16, 20, "DOSAGE"], [21, 24, "FREQUENCY"], [25, 32, "DURATION"]]}
+{"text": "Okacet 10mg tab 0-0-1 x 5d", "entities": [[0, 6, "MEDICINE"], [7, 11, "DOSAGE"], [16, 21, "FREQUENCY"], [22, 26, "DURATION"]]}
+{"text": "Tossex syp 10ml tid x 5 days", "entities": [[0, 6, "MEDICINE"], [11, 15, "DOSAGE"], [16, 19, "FREQUENCY"], [20, 28, "DURATION"]]}
+{"text": "Montek 10mg tab 0-0-1 10days", "entities": [[0, 6, "MEDICINE"], [7, 11, "DOSAGE"], [16, 21, "FREQUENCY"], [21, 28, "DURATION"]]}
+{"text": "Syp.Chericof Plus 10ml tds x5d", "entities": [[4, 17, "MEDICINE"], [18, 22, "DOSAGE"], [23, 26, "FREQUENCY"], [27, 30, "DURATION"]]}
+{"text": "Tab Pyrimon 1-0-1 x 3 days", "entities": [[4, 11, "MEDICINE"], [12, 17, "FREQUENCY"], [18, 26, "DURATION"]]}
+{"text": "Hydroxyzine 25mg bd 5d", "entities": [[0, 11, "MEDICINE"], [12, 16, "DOSAGE"], [17, 19, "FREQUENCY"], [20, 22, "DURATION"]]}
+{"text": "Grilinctus Syp 10ml TDS x 5 days", "entities": [[0, 10, "MEDICINE"], [15, 19, "DOSAGE"], [20, 23, "FREQUENCY"], [24, 32, "DURATION"]]}
+{"text": "Rx T.Citrizine 10mg 1 raat ko x5/7", "entities": [[5, 14, "MEDICINE"], [15, 19, "DOSAGE"]]}
+{"text": "Syp.Ascoril10ml tdsx5days", "entities": [[4, 11, "MEDICINE"], [11, 15, "DOSAGE"]]}
+{"text": "Tab. Levocet 5 mg 1 OD x 5d", "entities": [[5, 12, "MEDICINE"], [13, 17, "DOSAGE"], [20, 22, "FREQUENCY"], [23, 27, "DURATION"]]}
+{"text": "Benadryl syp 2 chammach tds x4d", "entities": [[0, 8, "MEDICINE"], [24, 27, "FREQUENCY"], [28, 31, "DURATION"]]}
+{"text": "Tab. Montair-LC 0-0-1 x 1 wk", "entities": [[5, 15, "MEDICINE"], [16, 21, "FREQUENCY"], [22, 28, "DURATION"]]}
+{"text": "syp alex 5 ml 1-1-1 x 5days", "entities": [[4, 8, "MEDICINE"], [9, 13, "DOSAGE"], [14, 19, "FREQUENCY"], [20, 27, "DURATION"]]}
+{"text": "Allegra 120mg tab 1-0-0 5d", "entities": [[0, 7, "MEDICINE"], [8, 13, "DOSAGE"], [18, 23, "FREQUENCY"], [23, 26, "DURATION"]]}
+{"text": "Grilinctus syrup 10ml tid x 5 days", "entities": [[0, 10, "MEDICINE"], [17, 21, "DOSAGE"], [22, 25, "FREQUENCY"], [26, 34, "DURATION"]]}
+{"text": "T.CPM 4mg 1-0-1 x 3d", "entities": [[2, 5, "MEDICINE"], [6, 9, "DOSAGE"], [10, 15, "FREQUENCY"], [16, 20, "DURATION"]]}
+{"text": "syp.benadryl 10ml tds 4days", "entities": [[4, 12, "MEDICINE"], [13, 17, "DOSAGE"], [18, 21, "FREQUENCY"], [22, 27, "DURATION"]]}
+{"text": "Tb Allegra 120 1-0-0 x 5d", "entities": [[3, 10, "MEDICINE"], [15, 20, "FREQUENCY"], [21, 25, "DURATION"]]}
+{"text": "Corex syp 10 ml 1-1-1 4 din", "entities": [[0, 5, "MEDICINE"], [10, 15, "DOSAGE"], [16, 21, "FREQUENCY"], [21, 27, "DURATION"]]}
+{"text": "Tab Fexofenadine 180mg OD x 5 days", "entities": [[4, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [26, 34, "DURATION"]]}
+{"text": "Syp.Chericof 10ml tds x5/7", "entities": [[4, 12, "MEDICINE"], [13, 17, "DOSAGE"], [18, 21, "FREQUENCY"]]}
+{"text": "Tab Montek Lc 0-0-1 10 days", "entities": [[4, 13, "MEDICINE"], [14, 19, "FREQUENCY"], [19, 27, "DURATION"]]}
+{"text": "Syp tussin 5ml tds x5d", "entities": [[4, 10, "MEDICINE"], [11, 14, "DOSAGE"], [15, 18, "FREQUENCY"], [19, 22, "DURATION"]]}
+{"text": "Cetzine 10mg tab OD hs 7days", "entities": [[0, 7, "MEDICINE"], [8, 12, "DOSAGE"], [17, 19, "FREQUENCY"], [23, 28, "DURATION"]]}
+{"text": "Phensedyl 10ml tds x 4d", "entities": [[0, 9, "MEDICINE"], [10, 14, "DOSAGE"], [15, 18, "FREQUENCY"], [19, 23, "DURATION"]]}
+{"text": "T.Avil 25 1-0-1 x 3 days", "entities": [[2, 6, "MEDICINE"], [10, 15, "FREQUENCY"], [16, 24, "DURATION"]]}
+{"text": "Syp Benadryl DR 10ml 1-1-1 x 5d", "entities": [[4, 15, "MEDICINE"], [16, 20, "DOSAGE"], [21, 26, "FREQUENCY"], [27, 31, "DURATION"]]}
+{"text": "Levocetirizine 5mg 0-0-1 x 5days", "entities": [[0, 14, "MEDICINE"], [15, 18, "DOSAGE"], [19, 24, "FREQUENCY"], [25, 32, "DURATION"]]}
+{"text": "Tab Montair lc 10mg OD x 7D", "entities": [[4, 14, "MEDICINE"], [15, 19, "DOSAGE"], [20, 22, "FREQUENCY"], [23, 27, "DURATION"]]}
+{"text": "CPM 4mg bd x 3 days", "entities": [[0, 3, "MEDICINE"], [4, 7, "DOSAGE"], [8, 10, "FREQUENCY"], [11, 19, "DURATION"]]}
+{"text": "Tab.Zyrtec 10mg 0-0-1 x 5d", "entities": [[4, 10, "MEDICINE"], [11, 15, "DOSAGE"], [16, 21, "FREQUENCY"], [22, 26, "DURATION"]]}
+{"text": "syp sinarest 10 ml tds 5 days", "entities": [[4, 12, "MEDICINE"], [13, 18, "DOSAGE"], [19, 22, "FREQUENCY"], [23, 29, "DURATION"]]}
+{"text": "Tab Desloratadine 5 mg OD 5d", "entities": [[4, 17, "MEDICINE"], [18, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [26, 28, "DURATION"]]}
+{"text": "Koflet syp 10ml tds x 5 days", "entities": [[0, 6, "MEDICINE"], [11, 15, "DOSAGE"], [16, 19, "FREQUENCY"], [20, 28, "DURATION"]]}
+{"text": "Tb.Hydroxyzine 25mg 1-0-1 x 5/7", "entities": [[3, 14, "MEDICINE"], [15, 19, "DOSAGE"], [20, 25, "FREQUENCY"]]}
+{"text": "Syp Solvin 5 ml 1-1-1 x 5d", "entities": [[4, 10, "MEDICINE"], [11, 15, "DOSAGE"], [16, 21, "FREQUENCY"], [22, 26, "DURATION"]]}
+{"text": "Rhinocap tab 1 OD x 5 days", "entities": [[0, 8, "MEDICINE"], [15, 17, "FREQUENCY"], [18, 26, "DURATION"]]}
+{"text": "Syp Cofsils 10ml tds 4days", "entities": [[4, 11, "MEDICINE"], [12, 16, "DOSAGE"], [17, 20, "FREQUENCY"], [21, 26, "DURATION"]]}
+{"text": "Fexofenadine 180 OD x 5 days", "entities": [[0, 12, "MEDICINE"], [17, 19, "FREQUENCY"], [20, 28, "DURATION"]]}
+{"text": "Cap Montelukast 10 mg 0-0-1 14 days", "entities": [[4, 15, "MEDICINE"], [16, 21, "DOSAGE"], [22, 27, "FREQUENCY"], [27, 35, "DURATION"]]}
+{"text": "Zyrtec 10mg 1-0-0 x 5d", "entities": [[0, 6, "MEDICINE"], [7, 11, "DOSAGE"], [12, 17, "FREQUENCY"], [18, 22, "DURATION"]]}
+{"text": "Tab.Montelukast10mg hs x 14d", "entities": [[4, 15, "MEDICINE"], [15, 19, "DOSAGE"], [20, 22, "FREQUENCY"], [23, 28, "DURATION"]]}
+{"text": "syp zedex 10ml tds x 5days", "entities": [[4, 9, "MEDICINE"], [10, 14, "DOSAGE"], [15, 18, "FREQUENCY"], [19, 26, "DURATION"]]}
+{"text": "Cheston cold tab 1-0-1 x 5 days", "entities": [[0, 12, "MEDICINE"], [17, 22, "FREQUENCY"], [23, 31, "DURATION"]]}
+{"text": "Torex syp 10ml 1-1-1 5 din", "entities": [[0, 5, "MEDICINE"], [10, 14, "DOSAGE"], [15, 20, "FREQUENCY"], [20, 26, "DURATION"]]}
+{"text": "Tb Wikoryl 1-0-1 x 5d", "entities": [[3, 10, "MEDICINE"], [11, 16, "FREQUENCY"], [17, 21, "DURATION"]]}
+{"text": "Syp Ascoril-LS 10 ml tds x 5days", "entities": [[4, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 24, "FREQUENCY"], [25, 32, "DURATION"]]}
+{"text": "Levolin 8mg tab 1-0-1 x 5d", "entities": [[0, 7, "MEDICINE"], [8, 11, "DOSAGE"], [16, 21, "FREQUENCY"], [22, 26, "DURATION"]]}
+{"text": "Syp.bro-zedex 5ml tds x 5 days", "entities": [[4, 13, "MEDICINE"], [14, 17, "DOSAGE"], [18, 21, "FREQUENCY"], [22, 30, "DURATION"]]}
+{"text": "Cetirizine 5mg 0-0-1 x 3d", "entities": [[0, 10, "MEDICINE"], [11, 14, "DOSAGE"], [15, 20, "FREQUENCY"], [21, 25, "DURATION"]]}
+{"text": "Cofdex syp 10ml tds x 4 days", "entities": [[0, 6, "MEDICINE"], [11, 15, "DOSAGE"], [16, 19, "FREQUENCY"], [20, 28, "DURATION"]]}
+{"text": "T. Actifed bd x 5 days", "entities": [[3, 10, "MEDICINE"], [11, 13, "FREQUENCY"], [14, 22, "DURATION"]]}
+{"text": "Syp Sinarest-AF 10ml 1-1-1 x 5d", "entities": [[4, 15, "MEDICINE"], [16, 20, "DOSAGE"], [21, 26, "FREQUENCY"], [27, 31, "DURATION"]]}
+{"text": "Okacet 10mg 0-0-1 x 5 days", "entities": [[0, 6, "MEDICINE"], [7, 11, "DOSAGE"], [12, 17, "FREQUENCY"], [18, 26, "DURATION"]]}
+{"text": "Tossex syp 10ml tds x 5d", "entities": [[0, 6, "MEDICINE"], [11, 15, "DOSAGE"], [16, 19, "FREQUENCY"], [20, 24, "DURATION"]]}
+{"text": "Tab Montek 10mg 0-0-1 x 10 days", "entities": [[4, 10, "MEDICINE"], [11, 15, "DOSAGE"], [16, 21, "FREQUENCY"], [22, 31, "DURATION"]]}
+{"text": "Syp Chericof plus 10 ml tds x 5days", "entities": [[4, 17, "MEDICINE"], [18, 23, "DOSAGE"], [24, 27, "FREQUENCY"], [28, 35, "DURATION"]]}
+{"text": "Tab Pyrimon 1-0-1 x 3d", "entities": [[4, 11, "MEDICINE"], [12, 17, "FREQUENCY"], [18, 22, "DURATION"]]}
+{"text": "Tb Hydroxyzine 25mg bd x 5 days", "entities": [[3, 14, "MEDICINE"], [15, 19, "DOSAGE"], [20, 22, "FREQUENCY"], [23, 31, "DURATION"]]}
+{"text": "Syr Grilinctus 10ml 3 times a day x 5d", "entities": [[4, 14, "MEDICINE"], [15, 19, "DOSAGE"], [20, 33, "FREQUENCY"], [34, 38, "DURATION"]]}
+{"text": "Rx: Tab Cetirizine 10mg 1 OD (night) x 5 days", "entities": [[8, 18, "MEDICINE"], [19, 23, "DOSAGE"], [26, 28, "FREQUENCY"], [37, 45, "DURATION"]]}
+{"text": "Syp Ascoril 2 dhakkan tds x 5 din", "entities": [[4, 11, "MEDICINE"], [22, 25, "FREQUENCY"], [26, 33, "DURATION"]]}
+{"text": "Tb Levocetirizine 5mg 0-0-1 for 5 days", "entities": [[3, 17, "MEDICINE"], [18, 21, "DOSAGE"], [22, 27, "FREQUENCY"], [32, 38, "DURATION"]]}
+{"text": "Benadryl Syp 10ml sos for cough", "entities": [[0, 8, "MEDICINE"], [13, 17, "DOSAGE"], [18, 21, "FREQUENCY"]]}
+{"text": "Tab Montair-LC 1 rozana x 7/7", "entities": [[4, 14, "MEDICINE"]]}
+{"text": "Syp Alex 5ml (khansi aane par) tds x 5d", "entities": [[4, 8, "MEDICINE"], [9, 12, "DOSAGE"], [31, 34, "FREQUENCY"], [35, 39, "DURATION"]]}
+{"text": "Tab Allegra 120mg 1-0-0 empty stomach x 5d", "entities": [[4, 11, "MEDICINE"], [12, 17, "DOSAGE"], [18, 23, "FREQUENCY"], [38, 42, "DURATION"]]}
+{"text": "Grilinctus 10ml 1-1-1 x 5d", "entities": [[0, 10, "MEDICINE"], [11, 15, "DOSAGE"], [16, 21, "FREQUENCY"], [22, 26, "DURATION"]]}
+{"text": "T Chlorpheniramine 4mg bd 3d", "entities": [[2, 18, "MEDICINE"], [19, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [26, 28, "DURATION"]]}
+{"text": "Benadryl 10 ml tds 4 days", "entities": [[0, 8, "MEDICINE"], [9, 14, "DOSAGE"], [15, 18, "FREQUENCY"], [19, 25, "DURATION"]]}
+{"text": "Tb Allegra 120mg 1 OD x 5/7", "entities": [[3, 10, "MEDICINE"], [11, 16, "DOSAGE"], [19, 21, "FREQUENCY"]]}
+{"text": "Corex Syp 10ml 1-1-1 x 4d", "entities": [[0, 5, "MEDICINE"], [10, 14, "DOSAGE"], [15, 20, "FREQUENCY"], [21, 25, "DURATION"]]}
+{"text": "Rx Tab.Pcm500mg1-1-1x3d", "entities": [[7, 10, "MEDICINE"], [10, 15, "DOSAGE"], [20, 23, "DURATION"]]}
+{"text": "dolo650 mg 1-0-1 for 5 days pc", "entities": [[0, 4, "MEDICINE"], [4, 10, "DOSAGE"], [11, 16, "FREQUENCY"], [21, 27, "DURATION"]]}
+{"text": "take Ibrofen 400 tds 3/7", "entities": [[5, 12, "MEDICINE"], [17, 20, "FREQUENCY"]]}
+{"text": "Tab Paracetamol 500 1-0-1 (subah sham) 3 din", "entities": [[4, 15, "MEDICINE"], [20, 25, "FREQUENCY"], [38, 44, "DURATION"]]}
+{"text": "C.Amox500mgTIDx5d", "entities": [[2, 6, "MEDICINE"]]}
+{"text": "Combiflam cap 1 stat & SOS for pain x5/7", "entities": [[0, 9, "MEDICINE"], [23, 26, "FREQUENCY"]]}
+{"text": "Tb crocin adv 500mg 1-1-1-1 x 4d", "entities": [[3, 9, "MEDICINE"], [14, 19, "DOSAGE"], [20, 27, "FREQUENCY"], [28, 32, "DURATION"]]}
+{"text": "Para 650mg 0-0-1 x 3 days hs", "entities": [[0, 4, "MEDICINE"], [5, 10, "DOSAGE"], [11, 16, "FREQUENCY"], [17, 25, "DURATION"]]}
+{"text": "Tab Diclofenac 50 mg twice daily for five days after food", "entities": [[4, 14, "MEDICINE"], [15, 20, "DOSAGE"]]}
+{"text": "Aceclofenac 100mg Tab 1-0-1x3D", "entities": [[0, 11, "MEDICINE"], [12, 17, "DOSAGE"], [27, 30, "DURATION"]]}
+{"text": "Syp Calpol 250mg 5ml tds x 3 days", "entities": [[4, 10, "MEDICINE"], [11, 16, "DOSAGE"], [21, 24, "FREQUENCY"], [25, 33, "DURATION"]]}
+{"text": "Nimesulide 100 tab BD 4days", "entities": [[0, 10, "MEDICINE"], [19, 21, "FREQUENCY"], [22, 27, "DURATION"]]}
+{"text": "Dolo 500mg 1 tab 3 times a day x 3days", "entities": [[0, 4, "MEDICINE"], [5, 10, "DOSAGE"], [17, 30, "FREQUENCY"], [31, 38, "DURATION"]]}
+{"text": "Rx: Tab Paracetamol 1g BD x 5d", "entities": [[8, 19, "MEDICINE"], [20, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [26, 30, "DURATION"]]}
+{"text": "DOLO-650 mg 1 OD x 3 days", "entities": [[0, 4, "MEDICINE"], [5, 11, "DOSAGE"], [14, 16, "FREQUENCY"], [17, 25, "DURATION"]]}
+{"text": "crocin 500mg tds 3days", "entities": [[0, 6, "MEDICINE"], [7, 12, "DOSAGE"], [13, 16, "FREQUENCY"], [17, 22, "DURATION"]]}
+{"text": "Syrup Calpol 125 1 tsf bd x4 days", "entities": [[6, 12, "MEDICINE"], [23, 25, "FREQUENCY"], [26, 33, "DURATION"]]}
+{"text": "Cap Flexon 1 stat & SOS x 3d", "entities": [[4, 10, "MEDICINE"], [20, 23, "FREQUENCY"], [24, 28, "DURATION"]]}
+{"text": "T Ibuprofen 200mg 1-1-1 4D", "entities": [[2, 11, "MEDICINE"], [12, 17, "DOSAGE"], [18, 23, "FREQUENCY"], [23, 26, "DURATION"]]}
+{"text": "Tab Aspirin 75mg 0-1-0 1 month", "entities": [[4, 11, "MEDICINE"], [12, 16, "DOSAGE"], [17, 22, "FREQUENCY"], [22, 30, "DURATION"]]}
+{"text": "syp.paracetamol125mg 5 ml TID x3 days", "entities": [[4, 15, "MEDICINE"], [15, 20, "DOSAGE"], [26, 29, "FREQUENCY"], [30, 37, "DURATION"]]}
+{"text": "Tab Meftal-spas 250 BD x3 days", "entities": [[4, 15, "MEDICINE"], [20, 22, "FREQUENCY"], [23, 30, "DURATION"]]}
+{"text": "zerodol 100mg 1-0-1 x 5/7", "entities": [[0, 7, "MEDICINE"], [8, 13, "DOSAGE"], [14, 19, "FREQUENCY"]]}
+{"text": "Tab.Naproxen250mg BD x 5 days", "entities": [[4, 12, "MEDICINE"], [12, 17, "DOSAGE"], [18, 20, "FREQUENCY"], [21, 29, "DURATION"]]}
+{"text": "ketorolac 10mg 1 tab po tid for 2 days", "entities": [[0, 9, "MEDICINE"], [10, 14, "DOSAGE"], [21, 27, "FREQUENCY"], [32, 38, "DURATION"]]}
+{"text": "Cap Sumo 500mg bd 4days", "entities": [[4, 8, "MEDICINE"], [9, 14, "DOSAGE"], [15, 17, "FREQUENCY"], [18, 23, "DURATION"]]}
+{"text": "Tab Crocin 500 mg 1-1-1-1 x 3d", "entities": [[4, 10, "MEDICINE"], [11, 17, "DOSAGE"], [18, 25, "FREQUENCY"], [26, 30, "DURATION"]]}
+{"text": "Take Tab Paracetamol 500mg SOS (max 3/day) x 5 days", "entities": [[9, 20, "MEDICINE"], [21, 26, "DOSAGE"], [27, 30, "FREQUENCY"], [43, 51, "DURATION"]]}
+{"text": "Dolo650 tds x 3 days", "entities": [[0, 4, "MEDICINE"], [8, 11, "FREQUENCY"], [12, 20, "DURATION"]]}
+{"text": "Syp.Brufen 100 mg/5ml - 5ml TDS x 5 days", "entities": [[4, 10, "MEDICINE"], [11, 17, "DOSAGE"], [28, 31, "FREQUENCY"], [32, 40, "DURATION"]]}
+{"text": "Tab Voveran 50mg 1-0-1 x 5d PC", "entities": [[4, 11, "MEDICINE"], [12, 16, "DOSAGE"], [17, 22, "FREQUENCY"], [23, 27, "DURATION"]]}
+{"text": "mefenamic acid 500mg tds x3", "entities": [[0, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 24, "FREQUENCY"]]}
+{"text": "Etoricoxib 90 mg OD x 5 days", "entities": [[0, 10, "MEDICINE"], [11, 16, "DOSAGE"], [17, 19, "FREQUENCY"], [20, 28, "DURATION"]]}
+{"text": "Cap Combiflam Plus 1 cap bd x 4days", "entities": [[4, 13, "MEDICINE"], [25, 27, "FREQUENCY"], [28, 35, "DURATION"]]}
+{"text": "Tab. Paracetamol 250mg 1-1-1 for 3 days", "entities": [[5, 16, "MEDICINE"], [17, 22, "DOSAGE"], [23, 28, "FREQUENCY"], [33, 39, "DURATION"]]}
+{"text": "dolo 650 OD 2d", "entities": [[0, 4, "MEDICINE"], [9, 11, "FREQUENCY"], [12, 14, "DURATION"]]}
+{"text": "Syp Calpol 125mg 1 tsp qid x 3d", "entities": [[4, 10, "MEDICINE"], [11, 16, "DOSAGE"], [23, 26, "FREQUENCY"], [27, 31, "DURATION"]]}
+{"text": "Tb. Ibuprofen 600mg tdsx5days", "entities": [[4, 13, "MEDICINE"], [14, 19, "DOSAGE"]]}
+{"text": "Tab Diclofenac sod. 50mg tid x 3 days", "entities": [[4, 14, "MEDICINE"], [20, 24, "DOSAGE"], [25, 28, "FREQUENCY"], [29, 37, "DURATION"]]}
+{"text": "Cap Zerodol-P 1-0-1 for 5 days", "entities": [[4, 13, "MEDICINE"], [14, 19, "FREQUENCY"], [24, 30, "DURATION"]]}
+{"text": "Tab Paracetamol 500 mg bd x 1 wk", "entities": [[4, 15, "MEDICINE"], [16, 22, "DOSAGE"], [23, 25, "FREQUENCY"], [26, 32, "DURATION"]]}
+{"text": "Aceclofenac 100mg tab OD for 5days", "entities": [[0, 11, "MEDICINE"], [12, 17, "DOSAGE"], [22, 24, "FREQUENCY"], [29, 34, "DURATION"]]}
+{"text": "Ultracet tab bd x 4d", "entities": [[0, 8, "MEDICINE"], [13, 15, "FREQUENCY"], [16, 20, "DURATION"]]}
+{"text": "Syp Meftal P 5 ml 1-1-1 x 3d", "entities": [[4, 10, "MEDICINE"], [13, 17, "DOSAGE"], [18, 23, "FREQUENCY"], [24, 28, "DURATION"]]}
+{"text": "Naproxen 500 mg 0-0-1 x 5/7", "entities": [[0, 8, "MEDICINE"], [9, 15, "DOSAGE"], [16, 21, "FREQUENCY"]]}
+{"text": "Tab Dolo 1g od x 3 days", "entities": [[4, 8, "MEDICINE"], [9, 11, "DOSAGE"], [12, 14, "FREQUENCY"], [15, 23, "DURATION"]]}
+{"text": "flexon MR cap bd 4 days", "entities": [[0, 9, "MEDICINE"], [14, 16, "FREQUENCY"], [17, 23, "DURATION"]]}
+{"text": "Tab Nimesulide 50mg tds x 3 days", "entities": [[4, 14, "MEDICINE"], [15, 19, "DOSAGE"], [20, 23, "FREQUENCY"], [24, 32, "DURATION"]]}
+{"text": "Tab Etodolac 400 mg 1-0-1 x 5 days", "entities": [[4, 12, "MEDICINE"], [13, 19, "DOSAGE"], [20, 25, "FREQUENCY"], [26, 34, "DURATION"]]}
+{"text": "Paracetamol 500mg tds x5d", "entities": [[0, 11, "MEDICINE"], [12, 17, "DOSAGE"], [18, 21, "FREQUENCY"], [22, 25, "DURATION"]]}
+{"text": "tab.aceclofenac100mg bd 5 days", "entities": [[4, 15, "MEDICINE"], [15, 20, "DOSAGE"], [21, 23, "FREQUENCY"], [24, 30, "DURATION"]]}
+{"text": "Diclofenac 50mg 1-1-1 x3 days", "entities": [[0, 10, "MEDICINE"], [11, 15, "DOSAGE"], [16, 21, "FREQUENCY"], [22, 29, "DURATION"]]}
+{"text": "Tab Nimesulide 100 mg subah sham x 4 days", "entities": [[4, 14, "MEDICINE"], [15, 21, "DOSAGE"], [33, 41, "DURATION"]]}
+{"text": "Combiflam 400 cap od x 5d", "entities": [[0, 9, "MEDICINE"], [18, 20, "FREQUENCY"], [21, 25, "DURATION"]]}
+{"text": "Tab Naproxen 250 mg tds x 5 days", "entities": [[4, 12, "MEDICINE"], [13, 19, "DOSAGE"], [20, 23, "FREQUENCY"], [24, 32, "DURATION"]]}
+{"text": "Meftal spas 250mg bd x 3 days", "entities": [[0, 6, "MEDICINE"], [12, 17, "DOSAGE"], [18, 20, "FREQUENCY"], [21, 29, "DURATION"]]}
+{"text": "Tab Etoricoxib 90mg 0-0-1 x 5 days", "entities": [[4, 14, "MEDICINE"], [15, 19, "DOSAGE"], [20, 25, "FREQUENCY"], [26, 34, "DURATION"]]}
+{"text": "T.Pantop40mg 1-0-0 khali pet 10 din", "entities": [[2, 8, "MEDICINE"], [8, 12, "DOSAGE"], [13, 18, "FREQUENCY"], [29, 35, "DURATION"]]}
+{"text": "Cap.Omeprazole 20 mg OD ac x 14 days", "entities": [[4, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 23, "FREQUENCY"], [27, 36, "DURATION"]]}
+{"text": "syp augementin 228.5 3.5ml BD 5days", "entities": [[4, 20, "MEDICINE"], [21, 26, "DOSAGE"], [27, 29, "FREQUENCY"], [30, 35, "DURATION"]]}
+{"text": "Tab.Azithral 500 1 OD for 3 days only", "entities": [[4, 12, "MEDICINE"], [19, 21, "FREQUENCY"], [26, 32, "DURATION"]]}
+{"text": "azee 500mg 1 goli rozana 3 din tak", "entities": [[0, 4, "MEDICINE"], [5, 10, "DOSAGE"], [25, 30, "DURATION"]]}
+{"text": "Inj. Monocef 1gm IV BD x 3 days", "entities": [[5, 12, "MEDICINE"], [13, 16, "DOSAGE"], [20, 22, "FREQUENCY"], [23, 31, "DURATION"]]}
+{"text": "Ceftum 500 tab 1-0-1 after meals 5d", "entities": [[0, 6, "MEDICINE"], [15, 20, "FREQUENCY"], [33, 35, "DURATION"]]}
+{"text": "Tx: Tab. Montek LC 1-0-1 x 1/52", "entities": [[9, 18, "MEDICINE"], [19, 24, "FREQUENCY"]]}
+{"text": "levocetirizine 5mg 0-0-1 raat ko 5 din", "entities": [[0, 14, "MEDICINE"], [15, 18, "DOSAGE"], [19, 24, "FREQUENCY"], [33, 38, "DURATION"]]}
+{"text": "Tb Allegra 120 mg OD x 10 days", "entities": [[3, 10, "MEDICINE"], [11, 17, "DOSAGE"], [18, 20, "FREQUENCY"], [21, 30, "DURATION"]]}
+{"text": "Syp. Grilinctus 10ml TID x 5 days", "entities": [[5, 15, "MEDICINE"], [16, 20, "DOSAGE"], [21, 24, "FREQUENCY"], [25, 33, "DURATION"]]}
+{"text": "Ascoril LS drops 1 ml qid x 3 days", "entities": [[0, 10, "MEDICINE"], [17, 21, "DOSAGE"], [22, 25, "FREQUENCY"], [26, 34, "DURATION"]]}
+{"text": "Drops Nasivion (Ped) 2 drops in each nostril SOS", "entities": [[6, 44, "MEDICINE"], [45, 48, "FREQUENCY"]]}
+{"text": "Oint. T-Bact apply locally BD x 7 days", "entities": [[6, 12, "MEDICINE"], [27, 29, "FREQUENCY"], [30, 38, "DURATION"]]}
+{"text": "cream fusidic acid 2% apply to affected area bid", "entities": [[6, 18, "MEDICINE"], [19, 21, "DOSAGE"], [45, 48, "FREQUENCY"]]}
+{"text": "Lotion Calamine apply bd", "entities": [[7, 15, "MEDICINE"], [22, 24, "FREQUENCY"]]}
+{"text": "T. Metformin 500mg 1-0-1 (with food) 1 month", "entities": [[3, 12, "MEDICINE"], [13, 18, "DOSAGE"], [19, 24, "FREQUENCY"], [36, 44, "DURATION"]]}
+{"text": "Glycomet GP1 1-0-1 x 30 days", "entities": [[0, 8, "MEDICINE"], [13, 18, "FREQUENCY"], [19, 28, "DURATION"]]}
+{"text": "Tb. Telma 40mg 1-0-0 x 1/12", "entities": [[4, 9, "MEDICINE"], [10, 14, "DOSAGE"], [15, 20, "FREQUENCY"]]}
+{"text": "Amlodipine 5mg half tab OD x 15 days", "entities": [[0, 10, "MEDICINE"], [11, 14, "DOSAGE"], [24, 26, "FREQUENCY"], [27, 36, "DURATION"]]}
+{"text": "Tab. Eltroxin 50mcg 1 OD early morning x 2 months", "entities": [[5, 13, "MEDICINE"], [14, 19, "DOSAGE"], [22, 24, "FREQUENCY"], [39, 49, "DURATION"]]}
+{"text": "thyronorm 25 mcg 1 tab empty stomach daily", "entities": [[0, 9, "MEDICINE"], [10, 16, "DOSAGE"]]}
+{"text": "Syr. Mucolite 5 ml 1-1-1 x 5/7", "entities": [[5, 13, "MEDICINE"], [14, 18, "DOSAGE"], [19, 24, "FREQUENCY"]]}
+{"text": "Montair FX tab 0-0-1 x 14 days", "entities": [[0, 10, "MEDICINE"], [15, 20, "FREQUENCY"], [21, 30, "DURATION"]]}
+{"text": "Tab. Augmentin 625mg 1-0-1 x 5 days pc", "entities": [[5, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 26, "FREQUENCY"], [27, 35, "DURATION"]]}
+{"text": "Tb. Taxim-O 200 bd x 5d", "entities": [[4, 11, "MEDICINE"], [16, 18, "FREQUENCY"], [19, 23, "DURATION"]]}
+{"text": "Cap Doxycycline 100mg 1-0-1 x 7 days", "entities": [[4, 15, "MEDICINE"], [16, 21, "DOSAGE"], [22, 27, "FREQUENCY"], [28, 36, "DURATION"]]}
+{"text": "T. Oflox 200 1-0-1 3 days", "entities": [[3, 8, "MEDICINE"], [13, 18, "FREQUENCY"], [18, 25, "DURATION"]]}
+{"text": "Syp. O2 5ml bd 3 din", "entities": [[5, 7, "MEDICINE"], [8, 11, "DOSAGE"], [12, 14, "FREQUENCY"], [15, 20, "DURATION"]]}
+{"text": "Sporlac DS 1-0-1 for 3 days", "entities": [[0, 10, "MEDICINE"], [11, 16, "FREQUENCY"], [21, 27, "DURATION"]]}
+{"text": "Econorm sachet 1 sachet bd x 3 days in water", "entities": [[0, 7, "MEDICINE"], [24, 26, "FREQUENCY"], [27, 35, "DURATION"]]}
+{"text": "ORS powder 1 pkt in 1L water sip by sip", "entities": [[0, 3, "MEDICINE"]]}
+{"text": "Inj. Pan 40mg IV stat", "entities": [[5, 8, "MEDICINE"], [9, 13, "DOSAGE"]]}
+{"text": "Tab. Pantodac 40 1-0-0 ac x 5 days", "entities": [[5, 13, "MEDICINE"], [17, 22, "FREQUENCY"], [26, 34, "DURATION"]]}
+{"text": "Rabicip 20mg 1 OD before breakfast", "entities": [[0, 7, "MEDICINE"], [8, 12, "DOSAGE"], [15, 17, "FREQUENCY"]]}
+{"text": "Syr. Digene 2 tsf tds x 5 days", "entities": [[5, 11, "MEDICINE"], [18, 21, "FREQUENCY"], [22, 30, "DURATION"]]}
+{"text": "Mucaine gel 10ml thrice daily ac x 7d", "entities": [[0, 7, "MEDICINE"], [12, 16, "DOSAGE"], [33, 37, "DURATION"]]}
+{"text": "T. Domstal 10mg 1 SOS for vomiting", "entities": [[3, 10, "MEDICINE"], [11, 15, "DOSAGE"], [18, 21, "FREQUENCY"]]}
+{"text": "Ondem 4mg tab 1 stat and SOS", "entities": [[0, 5, "MEDICINE"], [6, 9, "DOSAGE"], [25, 28, "FREQUENCY"]]}
+{"text": "Syp. Zincovit 5ml OD x 1 month", "entities": [[5, 13, "MEDICINE"], [14, 17, "DOSAGE"], [18, 20, "FREQUENCY"], [21, 30, "DURATION"]]}
+{"text": "Cap. Neurobion Forte 1 OD x 30 days", "entities": [[5, 20, "MEDICINE"], [23, 25, "FREQUENCY"], [26, 35, "DURATION"]]}
+{"text": "Shelcal 500 1-0-1 x 1 month", "entities": [[0, 7, "MEDICINE"], [12, 17, "FREQUENCY"], [18, 27, "DURATION"]]}
+{"text": "Tab. Supradyn 1 OD x 15d", "entities": [[5, 13, "MEDICINE"], [16, 18, "FREQUENCY"], [19, 24, "DURATION"]]}
+{"text": "Folvite 5mg 1 OD x 3 months", "entities": [[0, 7, "MEDICINE"], [8, 11, "DOSAGE"], [14, 16, "FREQUENCY"], [17, 27, "DURATION"]]}
+{"text": "Orofer XT tab 1-0-0 x 1 month", "entities": [[0, 9, "MEDICINE"], [14, 19, "FREQUENCY"], [20, 29, "DURATION"]]}
+{"text": "Syp. Dexorange 10ml bd x 20 days", "entities": [[5, 14, "MEDICINE"], [15, 19, "DOSAGE"], [20, 22, "FREQUENCY"], [23, 32, "DURATION"]]}
+{"text": "Tab. Chymoral Forte 1-1-1 x 5 days", "entities": [[5, 19, "MEDICINE"], [20, 25, "FREQUENCY"], [26, 34, "DURATION"]]}
+{"text": "Tb. Enzomac 1-1-1 x 3 days", "entities": [[4, 11, "MEDICINE"], [12, 17, "FREQUENCY"], [18, 26, "DURATION"]]}
+{"text": "Deflazacort 6mg 1-0-0 x 5 days", "entities": [[0, 11, "MEDICINE"], [12, 15, "DOSAGE"], [16, 21, "FREQUENCY"], [22, 30, "DURATION"]]}
+{"text": "Tab. Omnacortil 10mg 1-0-1 for 3 days, then 1-0-0 for 3 days", "entities": [[5, 15, "MEDICINE"], [16, 20, "DOSAGE"], [21, 26, "FREQUENCY"], [31, 37, "DURATION"]]}
+{"text": "Wysolone 5mg 2 tabs OD x 5 days", "entities": [[0, 8, "MEDICINE"], [9, 12, "DOSAGE"], [20, 22, "FREQUENCY"], [23, 31, "DURATION"]]}
+{"text": "Tab. Atarax 25mg 0-0-1 x 5 days", "entities": [[5, 11, "MEDICINE"], [12, 16, "DOSAGE"], [17, 22, "FREQUENCY"], [23, 31, "DURATION"]]}
+{"text": "Cetirizine 10mg 1 tab hs x 5d", "entities": [[0, 10, "MEDICINE"], [11, 15, "DOSAGE"], [22, 24, "FREQUENCY"], [25, 29, "DURATION"]]}
+{"text": "Tb. PCM 500 + IBU 400 1 SOS x 3 days", "entities": [[4, 7, "MEDICINE"], [24, 27, "FREQUENCY"], [28, 36, "DURATION"]]}
+{"text": "Cap. Pan-D 1-0-0 x 10 days", "entities": [[5, 10, "MEDICINE"], [11, 16, "FREQUENCY"], [17, 26, "DURATION"]]}
+{"text": "T. Zifi 200mg 1-0-1 x 5/7", "entities": [[3, 7, "MEDICINE"], [8, 13, "DOSAGE"], [14, 19, "FREQUENCY"]]}
+{"text": "Syp. Ibugesic Plus 5ml SOS x 3 days", "entities": [[5, 18, "MEDICINE"], [19, 22, "DOSAGE"], [23, 26, "FREQUENCY"], [27, 35, "DURATION"]]}
+{"text": "Drops Colicaid 0.5ml sos for crying", "entities": [[6, 14, "MEDICINE"], [15, 20, "DOSAGE"], [21, 24, "FREQUENCY"]]}
+{"text": "T. PCM 650 1-1-1 (if fever >100) x 3d", "entities": [[3, 6, "MEDICINE"], [11, 16, "FREQUENCY"], [33, 37, "DURATION"]]}
