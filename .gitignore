@@ -227,3 +227,9 @@ dist-ssr/
 data/db/
 data/*.log
 *.log
+
+venv/
+venv312/
+tmp_blank/
+model/experiments/*/model-best/
+model/experiments/*/model-last/
